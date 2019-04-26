@@ -269,7 +269,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div><br>
 
-<div class="row">
+<div class="row" id="organizers">
   <div class="col-md-12">
     <b>Industry Participants</b>
     <p>The workshop also features presentations by representatives of the following companies:</p>
@@ -291,7 +291,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 </div><br>
 
 
-<div class="row" id="organizers">
+<div class="row" >
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
