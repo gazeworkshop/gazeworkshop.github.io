@@ -1,0 +1,9 @@
+title: 3D Scene Generation
+email: manolis.savva@gmail.com
+description: Website for the Workshop on 3D Scene Generation at CVPR 2019
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
