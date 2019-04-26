@@ -38,10 +38,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at ICCV 2019 is a first-of-its-kind workshop focused on designing and evaluating deep learning methods for the task of gaze estimation and prediction. We aim to encourage and highlight novel strategies with a focus on robustness and accuracy in natural in-the-wild settings. This is expected to be achieved via novel neural network architectures, incorporating anatomical insights and constraints, introducing new and challenging datasets, and exploiting multi-modal training among other directions.
-    </p>
-    <p>
-This half-day workshop consists of three invited talks as well as lightning talks from industry contributors. We invite authors to submit papers to our workshop (8-page ICCV format), to be presented at a poster session on acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also invited to be presented at our poster session for increased exposure of the works and to foster discussion in the community.
+The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at ICCV 2019 is a first-of-its-kind workshop focused on designing and evaluating deep learning methods for the task of gaze estimation and prediction. We aim to encourage and highlight novel strategies with a focus on robustness and accuracy in natural in-the-wild settings. This is expected to be achieved via novel neural network architectures, incorporating anatomical insights and constraints, introducing new and challenging datasets, and exploiting multi-modal training among other directions. This half-day workshop consists of three invited talks as well as lightning talks from industry contributors. 
     </p>
   </div>
 </div> <br>   
