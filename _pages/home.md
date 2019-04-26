@@ -43,7 +43,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div> <br>   
 
-<div class="row">
+<div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Call for Papers</h2>
   </div>
