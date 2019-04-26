@@ -75,7 +75,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Important Dates</h2>
+    <h2>TODO Important Dates</h2>
   </div>
 </div>
 
@@ -84,7 +84,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>TODO Paper Submission Deadline</td>
+          <td>Paper Submission Deadline</td>
           <td>May 17 2019</td>
         </tr>
         <tr>
