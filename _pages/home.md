@@ -73,7 +73,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div><br>
 
-<div class="row" id="schedule">
+<div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
   </div>
@@ -198,7 +198,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 </div>
 
 <br>
-<div class="row">
+<div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
   </div>
@@ -298,7 +298,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 </div><br>
 
 
-<div class="row">
+<div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
