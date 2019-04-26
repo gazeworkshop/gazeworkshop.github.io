@@ -1,8 +1,8 @@
 ---
 layout: project
-urltitle:  "3D Scene Genneration"
-title: "3D Scene Generation"
-categories: cvpr, workshop, computer vision, computer graphics, visual learning, simulation environments, robotics, machine learning, natural language processing, reinforcement learning
+urltitle:  "Gaze Estimation and Prediction in the Wild"
+title: "Gaze Estimation and Prediction in the Wild"
+categories: iccv, workshop, computer vision, robotics, machine learning, natural language processing, gaze estimation
 permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
@@ -13,10 +13,10 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>3D Scene Generation</h1></center>
-    <center><h2>CVPR 2019 Workshop, Long Beach, CA</h2></center>
+    <center><h1>Gaze Estimation and Prediction in the Wild</h1></center>
+    <center><h2>ICCV 2019 Workshop, Seoul, Korea</h2></center>
     <!-- <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center> -->
-    <center>Sunday June 16 2019, 8:45am -- 5:40pm, <span style="color:#e74c3c;font-weight:400;">location TBA</span></center>
+    <center>TODO - DATE Sunday June 16 2019, 8:45am -- 5:40pm, <span style="color:#e74c3c;font-weight:400;"> TODO -location TBA</span></center>
   </div>
 </div>
 
@@ -25,7 +25,7 @@ acknowledgements: ""
 <div class="row" id="intro">
   <div class="col-md-12">
     <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
-    <p> Image credit: [1, 2, 7, 12, 6, 4, 5]</p>
+    <p> Image credit: [TODO - references, image]</p> 
   </div>
 </div>
 
@@ -38,13 +38,10 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      People spend a large percentage of their lives indoors---in bedrooms, living rooms, offices, kitchens, and other such spaces---and the demand for virtual versions of these real-world spaces has never been higher. Game developers, VR/AR designers, architects, and interior design firms are all increasingly making use virtual 3D scenes for prototyping and final products. Furthermore, AI/vision/robotics researchers are also turning to virtual environments to train data-hungry models for tasks such as visual navigation, 3D reconstruction, activity recognition, and more.
+The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at ICCV 2019 is a first-of-its-kind workshop focused on designing and evaluating deep learning methods for the task of gaze estimation and prediction. We aim to encourage and highlight novel strategies with a focus on robustness and accuracy in natural in-the-wild settings. This is expected to be achieved via novel neural network architectures, incorporating anatomical insights and constraints, introducing new and challenging datasets, and exploiting multi-modal training among other directions.
     </p>
     <p>
-      As the vision community turns from passive internet-images-based vision tasks to applications such as the ones listed above, the need for virtual 3D environments becomes critical. The community has recently benefited from large scale datasets of both synthetic 3D environments [13] and reconstructions of real spaces [8, 9, 14, 16], and the development of 3D simulation frameworks for studying embodied agents [3, 10, 11, 15]. While these existing datasets are a valuable resource, they are also finite in size and don't adapt to the needs of different vision tasks. To enable large-scale embodied visual learning in 3D environments, we must go beyond such static datasets and instead pursue the automatic synthesis of novel, task-relevant virtual environments.
-    </p>
-    <p>
-      In this workshop, we aim to bring together researchers working on automatic generation of 3D environments for computer vision research with researchers who are making use of 3D environment data for a variety of computer vision tasks. We define "generation of 3D environments" to include methods that generate 3D scenes from sensory inputs (e.g. images) or from high-level specifications (e.g. "a chic apartment for two people"). Vision tasks that consume such data include automatic scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, and more.
+This half-day workshop consists of three invited talks as well as lightning talks from industry contributors. We invite authors to submit papers to our workshop (8-page ICCV format), to be presented at a poster session on acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also invited to be presented at our poster session for increased exposure of the works and to foster discussion in the community.
     </p>
   </div>
 </div> <br>   
