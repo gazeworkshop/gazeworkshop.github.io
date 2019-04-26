@@ -55,24 +55,22 @@ This half-day workshop consists of three invited talks as well as lightning talk
   <div class="col-xs-12">
     <p>
       <span style="font-weight:500;">Call for papers:</span> We invite extended abstracts for work on tasks related to 3D scene generation or tasks leveraging generated 3D scenes.
-      Paper topics may include but are not limited to:
+      Workshop topics may include but are not limited to:
     </p>
     <ul>
-      <li>Generative models for 3D scene synthesis</li>
-      <li>Synthesis of 3D scenes from sensor inputs (e.g., images, videos, or scans)</li>
-      <li>Representations for 3D scenes</li>
-      <li>3D scene understanding based on synthetic 3D scene data</li>
-      <li>Completion of 3D scenes or objects in 3D scenes</li>
-      <li>Learning from real world data for improved models of virtual worlds</li>
-      <li>Use of 3D scenes for simulation targeted to learning in computer vision, robotics, and cognitive science</li>
+      <li>Proposal of novel eye detection, gaze estimation, and gaze prediction pipelines using deep convolutional neural networks</li>
+      <li>Incorporating geometric and anatomical constraints into neural networks in a differentiable manner</li>
+      <li>Exploring attention mechanisms to improve the estimation or prediction of users’ points of regard</li>
+      <li>Demonstration of robustness to conditions where current methods fail (illumination, appearance, low-resolution etc.)</li>
+      <li>Robust estimation from different data modalities such as RGB, depth, near infra-red, head pose, and eye region landmarks</li>
+      <li>Leveraging additional cues such as task context, temporal information, eye movement classification</li>
+      <li>Designing new accurate metrics to account for rapid eye movements in the real world</li>
+      <li>Semi-supervised / unsupervised / self-supervised learning, meta-learning, domain adaptation and other related machine learning methods</li>
+      <li>Methods for temporal gaze estimation and prediction including bayesian methods</li>
     </ul>
     <p>
-      <span style="font-weight:500;">Submission:</span> we encourage submissions of up to 6 pages excluding references and acknowledgements.
-      The submission should be in the CVPR format.
-      Reviewing will be single blind.
-      Accepted extended abstracts will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
-      We also welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
-      Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegeneration@gmail.com">3dscenegeneration@gmail.com</a></span>
+      <span style="font-weight:500;">Submission:</span> We invite authors to submit papers to our workshop (8-page ICCV format), to be presented at a poster session on acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also invited to be presented at our poster session for increased exposure of the works and to foster discussion in the community.
+   TODO   Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegeneration@gmail.com">3dscenegeneration@gmail.com</a></span>
       Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
     </p>
   </div>
