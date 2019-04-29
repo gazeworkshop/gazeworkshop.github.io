@@ -374,19 +374,3 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 <span>D. Ritchie, K. Wang, and Y.a. Lin</span>{:.authors}  
 <span>_CoRR_, vol. arXiv:1811.12463, 2018</span>{:.journal}  -->
 
-
-{% if page.acknowledgements %}
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Acknowledgments</h2>
-  </div>
-</div>
-<a name="/acknowledgements"></a>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      Thanks to <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
-    </p>
-  </div>
-</div>
-{% endif %}
