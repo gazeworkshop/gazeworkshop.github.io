@@ -15,8 +15,8 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Gaze Estimation and Prediction in the Wild</h1></center>
     <center><h2>ICCV 2019 Workshop, Seoul, Korea</h2></center>
-    <!-- <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center> -->
-    <center>TODO - DATE Sunday June 16 2019, 8:45am -- 5:40pm, <span style="color:#e74c3c;font-weight:400;"> TODO -location TBA</span></center>
+    <!-- <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center> 
+    <center>TODO - DATE Sunday June 16 2019, 8:45am -- 5:40pm, <span style="color:#e74c3c;font-weight:400;"> TODO -location TBA</span></center>-->
   </div>
 </div>
 
@@ -85,19 +85,23 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>May 17 2019</td>
+          <td>July 29, 2019</td>
+        </tr>
+        <tr>
+          <td>Reviews Released to Authors</td>
+          <td>August 12, 2019</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>May 31 2019</td>
+          <td>August 16, 2019</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>June 7 2019</td>
+          <td>August 30, 2019</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>June 17 2019</td>
+          <td>October 28, 2019 (Afternoon)</td>
         </tr>
       </tbody>
     </table>
