@@ -315,7 +315,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 <div class="row">
   <div class="col-xs-2">
     <a href="https://hyungjinchang.wordpress.com/">
-      <img class="people-pic" src="{{ "/static/img/people/hj.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/hj.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://hyungjinchang.wordpress.com/">Hyung Jin Chang</a>
@@ -324,7 +324,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
   <div class="col-xs-2">
     <a href="https://ait.ethz.ch/people/spark/">
-      <img class="people-pic" src="{{ "/static/img/people/sp.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/sp.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://ait.ethz.ch/people/spark/">Seonwook Park</a>
@@ -342,7 +342,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
   <div class="col-xs-2">
     <a href="https://ait.ethz.ch/people/hilliges/">
-      <img class="people-pic" src="{{ "/static/img/people/oh.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/oh.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://ait.ethz.ch/people/hilliges/">Otmar Hilliges</a>
@@ -351,7 +351,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
   <div class="col-xs-2">
     <a href="https://www.cs.bham.ac.uk/~leonarda/">
-      <img class="people-pic" src="{{ "/static/img/people/al.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/al.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.cs.bham.ac.uk/~leonarda/">Aleš Leonardis</a>
