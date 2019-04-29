@@ -107,19 +107,18 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 </div><br>
 
 
-<div class="row" >
+<!--div class="row" >
   <div class="col-xs-12">
     <h2>Schedule</h2>
   </div>
 </div>
-
 <p><br /></p>
 <div class="row">
   <div class="col-md-12">
   TBD
   </div>
 </div>
-<!--div class="row">
+<div class="row">
   <div class="col-xs-12">
      <table class="table table-striped">
       <tbody>
