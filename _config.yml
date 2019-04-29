@@ -7,3 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Build settings
 markdown: kramdown
 include: ['_pages']
+
+# Google Analytics
+google_analytics: UA-99765598-4
+
