@@ -292,19 +292,16 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
     <b>Industry Participants</b>
     <p>The workshop also features presentations by representatives of the following companies:</p>
   </div>
-<</div>
+</div>
 <div class="row">
   <div class="col-md-3">
-    <a href="https://planner5d.com/"><img src="/static/img/p5d.png" /></a>
+    <a href="https://www.samsung.com/"><img src="/static/img/samsung.png" /></a>
   </div>
   <div class="col-md-3">
-    <a href="https://wayfair.com/"><img src="/static/img/wayfair.png" /></a>
+    <a href="https://www.nvidia.com/"><img src="/static/img/nvidia.png" /></a>
   </div>
   <div class="col-md-3">
-    <a href="https://modsy.com/"><img src="/static/img/modsy.png" /></a>
-  </div>
-  <div class="col-md-3">
-    <a href="https://zillow.com/"><img src="/static/img/zillow.png" /></a>
+    <a href="https://www.tobii.com/"><img src="/static/img/tobii.png" /></a>
   </div>
 </div><br>
 
@@ -315,7 +312,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div>
 
-<<div class="row">
+<div class="row">
   <div class="col-xs-2">
     <a href="https://hyungjinchang.wordpress.com/">
       <img class="people-pic" src="{{ "/static/img/people/hj.png" | prepend:site.baseurl }}">
