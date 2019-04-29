@@ -66,8 +66,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <li>Methods for temporal gaze estimation and prediction including bayesian methods</li>
     </ul>
     <p>
-      <span style="font-weight:500;">Submission:</span> We invite authors to submit papers to our workshop (8-page ICCV format), to be presented at a poster session on acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also invited to be presented at our poster session for increased exposure of the works and to foster discussion in the community. TODO   Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegeneration@gmail.com">3dscenegeneration@gmail.com</a></span>
-      Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
+      <span style="font-weight:500;">Submission:</span> We invite authors to submit papers to our workshop (8-page ICCV format), to be presented at a poster session on acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also invited to be presented at our poster session for increased exposure of the works and to foster discussion in the community. All contributions must be submitted through CMT in the following link: TBD.
     </p>
   </div>
 </div><br>
