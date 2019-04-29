@@ -24,8 +24,8 @@ acknowledgements: ""
 
 <div class="row" id="intro">
   <div class="col-md-12">
-    <!--img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">-->
-    <p> Image credit: [TODO - references, image]</p> 
+    <img src="{{ "/static/img/seoul.png" | prepend:site.baseurl }}">
+    <p> Photo: Shutterstock</p> 
   </div>
 </div>
 
