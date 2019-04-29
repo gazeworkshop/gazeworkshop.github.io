@@ -298,7 +298,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
     <a href="https://www.samsung.com/"><img src="/static/img/samsung.png" /></a>
   </div>
   <div class="col-md-3">
-    <a href="https://www.nvidia.com/"><img src="/static/img/nvidia.png" /></a>
+    <a href="https://www.nvidia.com/"><img src="/static/img/nvidia.jpg" /></a>
   </div>
   <div class="col-md-3">
     <a href="https://www.tobii.com/"><img src="/static/img/tobii.png" /></a>
