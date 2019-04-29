@@ -4,7 +4,7 @@ urltitle:  "Gaze Estimation and Prediction in the Wild"
 title: "Gaze Estimation and Prediction in the Wild"
 categories: iccv, workshop, computer vision, robotics, machine learning, natural language processing, gaze estimation
 permalink: /
-favicon: /static/img/ico/favicon.png
+favicon: /static/img/icon.jpg
 bibtex: true
 paper: true
 acknowledgements: ""
