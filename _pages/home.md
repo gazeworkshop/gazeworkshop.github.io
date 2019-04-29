@@ -25,7 +25,7 @@ acknowledgements: ""
 <div class="row" id="intro">
   <div class="col-md-12">
     <img src="{{ "/static/img/Seoul.jpg" | prepend:site.baseurl }}">
-    <p style="text-align:left;"> Photo: Shutterstock</p> 
+    <p align="right"> Photo: Shutterstock</p> 
   </div>
 </div>
 
