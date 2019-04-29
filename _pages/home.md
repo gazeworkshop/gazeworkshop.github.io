@@ -75,7 +75,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>TODO Important Dates</h2>
+    <h2>Important Dates</h2>
   </div>
 </div>
 
@@ -114,7 +114,14 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
     <h2>TODO Schedule</h2>
   </div>
 </div>
+
+<p><br /></p>
 <div class="row">
+  <div class="col-md-12">
+  TBD
+  </div>
+</div>
+<!--div class="row">
   <div class="col-xs-12">
      <table class="table table-striped">
       <tbody>
@@ -185,7 +192,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       </tbody>
     </table>
   </div>
-</div>
+</div>-->
 
 <br>
 <div class="row">
@@ -194,12 +201,12 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div>
 
-<!--p><br /></p>
+<p><br /></p>
 <div class="row">
   <div class="col-md-12">
   TBD
   </div>
-</div>-->
+</div>
 
 <br>
 <div class="row" id="speakers">
@@ -207,6 +214,12 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
     <h2>Invited Speakers</h2>
   </div>
 </div><br>
+
+<div class="row">
+  <div class="col-md-12">
+  TBD
+  </div>
+</div>
 
 <!--<div class="row">
   <div class="col-md-12">
@@ -279,7 +292,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
     <b>Industry Participants</b>
     <p>The workshop also features presentations by representatives of the following companies:</p>
   </div>
-<!--</div>
+<</div>
 <div class="row">
   <div class="col-md-3">
     <a href="https://planner5d.com/"><img src="/static/img/p5d.png" /></a>
@@ -293,7 +306,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   <div class="col-md-3">
     <a href="https://zillow.com/"><img src="/static/img/zillow.png" /></a>
   </div>
-</div><br>-->
+</div><br>
 
 
 <div class="row" >
@@ -302,14 +315,14 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div>
 
-<!--<div class="row">
+<<div class="row">
   <div class="col-xs-2">
-    <a href="https://angelxuanchang.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/angel.png" | prepend:site.baseurl }}">
+    <a href="https://hyungjinchang.wordpress.com/">
+      <img class="people-pic" src="{{ "/static/img/people/hj.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://angelxuanchang.github.io/">Angel X. Chang</a>
-      <h6>Eloquent Labs, Simon Fraser University</h6>
+      <a href="https://hyungjinchang.wordpress.com/">Hyung Jin Chang</a>
+      <h6>University of Birmingham</h6>
     </div>
   </div>
   <div class="col-xs-2">
@@ -339,7 +352,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <h6>Facebook AI Research, Simon Fraser University</h6>
     </div>
   </div>
-</div>-->
+</div>
 
 <hr>
 
