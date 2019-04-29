@@ -51,8 +51,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 <div class="row">
   <div class="col-xs-12">
     <p>
-      <span style="font-weight:500;">Call for papers:</span> We invite extended abstracts for work on gaze estimation or eye detection.
-      Workshop topics may include but are not limited to:
+      We invite extended abstracts for work on gaze estimation or eye detection. Workshop topics may include but are not limited to:
     </p>
     <ul>
       <li>Proposal of novel eye detection, gaze estimation, and gaze prediction pipelines using deep convolutional neural networks</li>
