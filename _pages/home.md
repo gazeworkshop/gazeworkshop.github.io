@@ -323,12 +323,12 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
     </div>
   </div>
   <div class="col-xs-2">
-    <a href="https://dritchie.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/daniel.png" | prepend:site.baseurl }}">
+    <a href="https://ait.ethz.ch/people/spark/">
+      <img class="people-pic" src="{{ "/static/img/people/sp.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://dritchie.github.io/">Daniel Ritchie</a>
-      <h6>Brown University</h6>
+      <a href="https://ait.ethz.ch/people/spark/">Seonwook Park</a>
+      <h6>ETH Zürich</h6>
     </div>
   </div>
   <div class="col-xs-2">
@@ -336,7 +336,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <img class="people-pic" src="{{ "/static/img/people/qixing.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang</a>
+      <a href="https://www.cs.utexas.edu/~huangqx/">Xucong Zhang</a>
       <h6>UT Austin</h6>
     </div>
   </div>
@@ -345,8 +345,17 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <img class="people-pic" src="{{ "/static/img/people/manolis.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://msavva.github.io/">Manolis Savva</a>
+      <a href="http://msavva.github.io/">Otmar Hilliges</a>
       <h6>Facebook AI Research, Simon Fraser University</h6>
+    </div>
+  </div>
+  <div class="col-xs-2">
+    <a href="https://www.cs.bham.ac.uk/~leonarda/">
+      <img class="people-pic" src="{{ "/static/img/people/al.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.cs.bham.ac.uk/~leonarda/">Aleš Leonardis</a>
+      <h6>University of Birmingham</h6>
     </div>
   </div>
 </div>
