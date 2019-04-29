@@ -332,21 +332,21 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
     </div>
   </div>
   <div class="col-xs-2">
-    <a href="https://www.cs.utexas.edu/~huangqx/">
-      <img class="people-pic" src="{{ "/static/img/people/qixing.png" | prepend:site.baseurl }}">
+    <a href="https://ait.ethz.ch/people/zhang/">
+      <img class="people-pic" src="{{ "/static/img/people/xz.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.cs.utexas.edu/~huangqx/">Xucong Zhang</a>
-      <h6>UT Austin</h6>
+      <a href="https://ait.ethz.ch/people/zhang/">Xucong Zhang</a>
+      <h6>ETH Zürich</h6>
     </div>
   </div>
   <div class="col-xs-2">
-    <a href="http://msavva.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/manolis.png" | prepend:site.baseurl }}">
+    <a href="https://ait.ethz.ch/people/hilliges/">
+      <img class="people-pic" src="{{ "/static/img/people/oh.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://msavva.github.io/">Otmar Hilliges</a>
-      <h6>Facebook AI Research, Simon Fraser University</h6>
+      <a href="https://ait.ethz.ch/people/hilliges/">Otmar Hilliges</a>
+      <h6>ETH Zürich</h6>
     </div>
   </div>
   <div class="col-xs-2">
