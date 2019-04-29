@@ -111,7 +111,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 
 <div class="row" >
   <div class="col-xs-12">
-    <h2>TODO Schedule</h2>
+    <h2>Schedule</h2>
   </div>
 </div>
 
