@@ -51,7 +51,10 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We invite submission of papers on gaze estimation or eye detection. Workshop topics may include but are not limited to:
+      <span style="font-weight:500;">Submission:</span> We invite authors to submit papers to our workshop (8-page ICCV format), to be presented at a poster session on acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also invited to be presented at our poster session for increased exposure of the works and to foster discussion in the community. All contributions must be submitted through CMT in the following link: TBD.
+    </p>
+    <p>
+      The topics of this workshop include but are not limited to:
     </p>
     <ul>
       <li>Proposal of novel eye detection, gaze estimation, and gaze prediction pipelines using deep convolutional neural networks</li>
@@ -64,9 +67,6 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <li>Semi-supervised / unsupervised / self-supervised learning, meta-learning, domain adaptation and other related machine learning methods</li>
       <li>Methods for temporal gaze estimation and prediction including bayesian methods</li>
     </ul>
-    <p>
-      <span style="font-weight:500;">Submission:</span> We invite authors to submit papers to our workshop (8-page ICCV format), to be presented at a poster session on acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also invited to be presented at our poster session for increased exposure of the works and to foster discussion in the community. All contributions must be submitted through CMT in the following link: TBD.
-    </p>
   </div>
 </div><br>
 
