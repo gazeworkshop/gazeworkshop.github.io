@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Gaze Estimation and Prediction in the Wild</h1></center>
     <center><h2>ICCV 2019 Workshop, Seoul, Korea</h2></center>
-    <!-- <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center> 
+    <!-- <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center>
     <center>TODO - DATE Sunday June 16 2019, 8:45am -- 5:40pm, <span style="color:#e74c3c;font-weight:400;"> TODO -location TBA</span></center>-->
   </div>
 </div>
@@ -25,7 +25,7 @@ acknowledgements: ""
 <div class="row" id="intro">
   <div class="col-md-12">
     <img src="{{ "/static/img/Seoul.jpg" | prepend:site.baseurl }}">
-    <p align="right"> Photo: Shutterstock</p> 
+    <p align="right"> Photo: Shutterstock</p>
   </div>
 </div>
 
@@ -38,10 +38,10 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at ICCV 2019 is a first-of-its-kind workshop focused on designing and evaluating deep learning methods for the task of gaze estimation and prediction. We aim to encourage and highlight novel strategies with a focus on robustness and accuracy in natural in-the-wild settings. This is expected to be achieved via novel neural network architectures, incorporating anatomical insights and constraints, introducing new and challenging datasets, and exploiting multi-modal training among other directions. This half-day workshop consists of three invited talks as well as lightning talks from industry contributors. 
+The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at ICCV 2019 is a first-of-its-kind workshop focused on designing and evaluating deep learning methods for the task of gaze estimation and prediction. We aim to encourage and highlight novel strategies with a focus on robustness and accuracy in natural in-the-wild settings. This is expected to be achieved via novel neural network architectures, incorporating anatomical insights and constraints, introducing new and challenging datasets, and exploiting multi-modal training among other directions. This half-day workshop consists of three invited talks as well as lightning talks from industry contributors.
     </p>
   </div>
-</div> <br>   
+</div> <br>
 
 <div class="row" id="dates">
   <div class="col-xs-12">
@@ -228,7 +228,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   <div class="col-md-12">
     <a href="http://www.cs.utexas.edu/users/grauman/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/grauman.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="http://www.cs.utexas.edu/users/grauman/">Kristen Grauman</a></b> is a Professor in the Department of Computer Science at the University of Texas at Austin and a Research Scientist in Facebook AI Research (FAIR).  Her research in computer vision and machine learning focuses on visual recognition and search.  Before joining UT-Austin in 2007, she received her Ph.D. at MIT.  She is an Alfred P. Sloan Research Fellow and Microsoft Research New Faculty Fellow, a recipient of NSF CAREER and ONR Young Investigator awards, the PAMI Young Researcher Award in 2013, the 2013 Computers and Thought Award from the International Joint Conference on Artificial Intelligence (IJCAI), the Presidential Early Career Award for Scientists and Engineers (PECASE) in 2013, and the Helmholtz Prize in 2017. 
+      <b><a href="http://www.cs.utexas.edu/users/grauman/">Kristen Grauman</a></b> is a Professor in the Department of Computer Science at the University of Texas at Austin and a Research Scientist in Facebook AI Research (FAIR).  Her research in computer vision and machine learning focuses on visual recognition and search.  Before joining UT-Austin in 2007, she received her Ph.D. at MIT.  She is an Alfred P. Sloan Research Fellow and Microsoft Research New Faculty Fellow, a recipient of NSF CAREER and ONR Young Investigator awards, the PAMI Young Researcher Award in 2013, the 2013 Computers and Thought Award from the International Joint Conference on Artificial Intelligence (IJCAI), the Presidential Early Career Award for Scientists and Engineers (PECASE) in 2013, and the Helmholtz Prize in 2017.
     </p>
   </div>
 </div><br>
@@ -369,7 +369,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 
 
 <!--{:.paper}
-<span>[1] Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models</span>{:.papertitle}  
-<span>D. Ritchie, K. Wang, and Y.a. Lin</span>{:.authors}  
+<span>[1] Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models</span>{:.papertitle}
+<span>D. Ritchie, K. Wang, and Y.a. Lin</span>{:.authors}
 <span>_CoRR_, vol. arXiv:1811.12463, 2018</span>{:.journal}  -->
 
