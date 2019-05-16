@@ -98,7 +98,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>October 28, 2019 (Afternoon)</td>
+          <td>October 27, 2019 (Morning)</td>
         </tr>
       </tbody>
     </table>
