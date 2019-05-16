@@ -64,7 +64,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <li>Robust estimation from different data modalities such as RGB, depth, near infra-red, head pose, and eye region landmarks</li>
       <li>Leveraging additional cues such as task context, temporal information, eye movement classification</li>
       <li>Designing new accurate metrics to account for rapid eye movements in the real world</li>
-      <li>Semi-supervised / unsupervised / self-supervised learning, meta-learning, domain adaptation and other related machine learning methods</li>
+      <li>Semi-supervised / unsupervised / self-supervised learning, meta-learning, domain adaptation and other related machine learning methods for gaze estimation</li>
       <li>Methods for temporal gaze estimation and prediction including bayesian methods</li>
     </ul>
   </div>
