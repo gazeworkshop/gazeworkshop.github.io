@@ -38,7 +38,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at ICCV 2019 is a first-of-its-kind workshop focused on designing and evaluating deep learning methods for the task of gaze estimation and prediction. We aim to encourage and highlight novel strategies with a focus on robustness and accuracy in natural in-the-wild settings. This is expected to be achieved via novel neural network architectures, incorporating anatomical insights and constraints, introducing new and challenging datasets, and exploiting multi-modal training among other directions. This half-day workshop consists of three invited talks as well as lightning talks from industry contributors.
+The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at ICCV 2019 is the first-of-its-kind workshop focused on designing and evaluating deep learning methods for the task of gaze estimation and prediction. We aim to encourage and highlight novel strategies with a focus on robustness and accuracy in real-world settings. This is expected to be achieved via novel neural network architectures, incorporating anatomical insights and constraints, introducing new and challenging datasets, and exploiting multi-modal training among other directions. This half-day workshop consists of three invited talks as well as lightning talks from industry contributors.
     </p>
   </div>
 </div> <br>
@@ -51,7 +51,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 <div class="row">
   <div class="col-xs-12">
     <p>
-      <span style="font-weight:500;">Submission:</span> We invite authors to submit papers to our workshop (8-page ICCV format), to be presented at a poster session on acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also invited to be presented at our poster session for increased exposure of the works and to foster discussion in the community. All contributions must be submitted through CMT in the following link: TBD.
+      <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers (8-page ICCV format) to our workshop, to be presented at a poster session upon acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also welcome to be presented during our poster session to increase exposure and foster discussion in the community. All contributions must be submitted through CMT in the following link: TBD.
     </p>
     <p>
       The topics of this workshop include but are not limited to:
@@ -59,12 +59,12 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
     <ul>
       <li>Proposal of novel eye detection, gaze estimation, and gaze prediction pipelines using deep convolutional neural networks</li>
       <li>Incorporating geometric and anatomical constraints into neural networks in a differentiable manner</li>
-      <li>Exploring attention mechanisms to improve the estimation or prediction of users’ points of regard</li>
+      <!--<li>Exploring attention mechanisms to improve the estimation or prediction of users’ points of regard</li>-->
       <li>Demonstration of robustness to conditions where current methods fail (illumination, appearance, low-resolution etc.)</li>
-      <li>Robust estimation from different data modalities such as RGB, depth, near infra-red, head pose, and eye region landmarks</li>
+      <li>Robust estimation from different data modalities such as RGB, depth, near infra-red<!--, head pose, and eye region landmarks--></li>
       <li>Leveraging additional cues such as task context, temporal information, eye movement classification</li>
       <li>Designing new accurate metrics to account for rapid eye movements in the real world</li>
-      <li>Semi-supervised / unsupervised / self-supervised learning, meta-learning, domain adaptation and other related machine learning methods for gaze estimation</li>
+      <li>Semi-supervised / unsupervised / self-supervised learning, meta-learning, domain adaptation, attention mechanisms and other related machine learning methods for gaze estimation</li>
       <li>Methods for temporal gaze estimation and prediction including bayesian methods</li>
     </ul>
   </div>
