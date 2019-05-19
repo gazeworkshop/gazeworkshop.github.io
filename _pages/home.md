@@ -57,15 +57,15 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       The topics of this workshop include but are not limited to:
     </p>
     <ul>
-      <li>Proposal of novel eye detection, gaze estimation, and gaze prediction pipelines using deep convolutional neural networks</li>
-      <li>Incorporating geometric and anatomical constraints into neural networks in a differentiable manner</li>
-      <!--<li>Exploring attention mechanisms to improve the estimation or prediction of users’ points of regard</li>-->
-      <li>Demonstration of robustness to conditions where current methods fail (illumination, appearance, low-resolution etc.)</li>
-      <li>Robust estimation from different data modalities such as RGB, depth, near infra-red<!--, head pose, and eye region landmarks--></li>
-      <li>Leveraging additional cues such as task context, temporal information, eye movement classification</li>
-      <li>Designing new accurate metrics to account for rapid eye movements in the real world</li>
-      <li>Semi-supervised / unsupervised / self-supervised learning, meta-learning, domain adaptation, attention mechanisms and other related machine learning methods for gaze estimation</li>
-      <li>Methods for temporal gaze estimation and prediction including bayesian methods</li>
+      <li>Proposal of novel eye detection, gaze estimation, and gaze prediction pipelines using deep convolutional neural networks.</li>
+      <li>Incorporating geometric and anatomical constraints into neural networks in a differentiable manner.</li>
+      <!--<li>Exploring attention mechanisms to improve the estimation or prediction of users’ points of regard.</li>-->
+      <li>Demonstration of robustness to conditions where current methods fail (illumination, appearance, low-resolution etc.).</li>
+      <li>Robust estimation from different data modalities such as RGB, depth, and near infra-red.<!--, head pose, and eye region landmarks--></li>
+      <li>Leveraging additional cues such as task context, temporal information, eye movement classification.</li>
+      <li>Designing new accurate metrics to account for rapid eye movements in the real world.</li>
+      <li>Semi-supervised / unsupervised / self-supervised learning, meta-learning, domain adaptation, attention mechanisms and other related machine learning methods for gaze estimation.</li>
+      <li>Methods for temporal gaze estimation and prediction including bayesian methods.</li>
     </ul>
   </div>
 </div><br>
