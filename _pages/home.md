@@ -51,7 +51,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 <div class="row">
   <div class="col-xs-12">
     <p>
-      <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers (8-page ICCV format) to our workshop, to be presented at a poster session upon acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also welcome to be presented during our poster session to increase exposure and foster discussion in the community. All contributions must be submitted through CMT in the following link: TBD.
+      <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers (8-page ICCV format) to our workshop, to be presented at a poster session upon acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also welcome to be presented during our poster session to increase exposure and foster discussion in the community. All contributions must be submitted through CMT in the following link: <a href="https://cmt3.research.microsoft.com/GAZE2019" target="_blank" title="CMT Submission System for GAZE 2019">https://cmt3.research.microsoft.com/GAZE2019</a>.
     </p>
     <p>
       The topics of this workshop include but are not limited to:
