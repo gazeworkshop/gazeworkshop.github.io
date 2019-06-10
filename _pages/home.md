@@ -221,7 +221,9 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <h6>University of Stuttgart</h6>
     </div>
   </div>
-  
+</div>
+
+<div class="row">
   <div class="col-xs-3">
     <a href="https://www.yusuke-sugano.info/">
       <img class="people-pic" src="{{ "/static/img/people/ys.jpg" | prepend:site.baseurl }}">
