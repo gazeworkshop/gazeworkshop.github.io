@@ -211,7 +211,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 </div>
 
 <div class="row">
-  <div class="col-xs-4">
+  <div class="col-xs-3">
     <a href="https://perceptual.mpi-inf.mpg.de/people/andreas-bulling/">
       <img class="people-pic" src="{{ "/static/img/people/ab.png" | prepend:site.baseurl }}">
     </a>
@@ -222,7 +222,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
     </div>
   </div>
   
-  <div class="col-xs-4">
+  <div class="col-xs-3">
     <a href="https://www.yusuke-sugano.info/">
       <img class="people-pic" src="{{ "/static/img/people/ys.jpg" | prepend:site.baseurl }}">
     </a>
