@@ -224,7 +224,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   
   <div class="col-xs-4">
     <a href="https://www.yusuke-sugano.info/">
-      <img class="people-pic" src="{{ "/static/img/people/ys.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/ys.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.yusuke-sugano.info/">Yusuke Sugano</a>
