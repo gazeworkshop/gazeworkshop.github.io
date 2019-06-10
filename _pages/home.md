@@ -211,8 +211,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 </div>
 
 <div class="row">
-  <div class="col-md-12">
-  <div class="col-xs-2">
+  <div class="col-xs-4">
     <a href="https://perceptual.mpi-inf.mpg.de/people/andreas-bulling/">
       <img class="people-pic" src="{{ "/static/img/people/ab.png" | prepend:site.baseurl }}">
     </a>
@@ -221,10 +220,18 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <h6>Max Planck Institute for Informatics</h6>
       <h6>University of Stuttgart</h6>
     </div>
-
-
-
   </div>
+  
+  <div class="col-xs-4">
+    <a href="https://www.yusuke-sugano.info/">
+      <img class="people-pic" src="{{ "/static/img/people/ys.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.yusuke-sugano.info/">Yusuke Sugano</a>
+      <h6>University of Tokyo</h6>
+    </div>
+  </div>  
+  
 </div>
 <br>
 
