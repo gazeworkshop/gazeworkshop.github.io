@@ -210,19 +210,25 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div>
 
-<div class="row">
-  <div class="col-xs-3">
-    <a href="https://perceptual.mpi-inf.mpg.de/people/andreas-bulling/">
+<div class="row speaker">
+  <div class="col-xs-3 speaker-pic">
+    <a href="https://perceptualui.org/people/bulling/">
       <img class="people-pic" src="{{ "/static/img/people/ab.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://perceptual.mpi-inf.mpg.de/people/andreas-bulling/">Andreas Bulling</a>
-      <h6>Max Planck Institute for Informatics</h6>
+      <a href="https://perceptualui.org/people/bulling/">Andreas Bulling</a>
       <h6>University of Stuttgart</h6>
     </div>
   </div>
-  
-  <div class="col-xs-3">
+  <div class="col-xs-9">
+    <b>Biography</b>
+    <p class="speaker-bio">
+Andreas Bulling is Full Professor (W3) of Computer Science at the University of Stuttgart where he holds the chair for Human-Computer Interaction and Cognitive Systems. He is also Faculty at the International Max Planck Research School for Intelligent Systems (IMPRS-IS), Member in the Cluster of Excellence "Data-integrated Simulation Science" (SimTech), and partner of Pupil Labs GmbH. He received his MSc. (Dipl.-Inform.) in Computer Science from the Karlsruhe Institute of Technology (KIT), Germany, focusing on embedded systems, robotics, and biomedical engineering. He holds a PhD in Information Technology and Electrical Engineering from the Swiss Federal Institute of Technology (ETH) Zurich, Switzerland. Andreas was previously a Feodor Lynen Research Fellow and a Marie Curie Research Fellow in the Computer Laboratory at the University of Cambridge, UK, a postdoctoral research associate in the School of Computing and Communications at Lancaster University, UK, as well as a Junior Research Fellow at Wolfson College, Cambridge. From 2013 – 2018 he was a Senior Researcher at the Max Planck Institute for Informatics and an Independent Research Group Leader (W2) at the Cluster of Excellence on Multimodal Computing and Interaction (MMCI) at Saarland University. Andreas is UbiComp steering committee member and serves on the editorial boards of the Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Technologies, ACM Transactions on Interactive Intelligent Systems, and the Journal of Eye Movement Research. He served as co-chair, TPC member, and reviewer for major conferences, most recently as TPC co-chair for ACM UbiComp 2016 and IEEE PerCom 2015, associate chair for ACM ETRA 2016 and 2018 as well as ACM CHI 2013, 2014, 2018, and 2019, and general chair for ETRA 2020. He received an ERC Starting Grant in 2018.
+    </p>
+  </div>
+</div>
+<div class="row speaker">
+  <div class="col-xs-3 speaker-pic">
     <a href="https://www.yusuke-sugano.info/">
       <img class="people-pic" src="{{ "/static/img/people/ys.jpg" | prepend:site.baseurl }}">
     </a>
@@ -230,8 +236,13 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <a href="https://www.yusuke-sugano.info/">Yusuke Sugano</a>
       <h6>University of Tokyo</h6>
     </div>
-  </div>  
-  
+  </div>
+  <div class="col-xs-9">
+    <b>Biography</b>
+    <p class="speaker-bio">
+Yusuke Sugano is an associate professor at Institute of Industrial Science, The University of Tokyo. His research interests focus on computer vision and human-computer interaction. He received his Ph.D. in information science and technology from the University of Tokyo in 2010. He was previously an associate professor at Graduate School of Information Science and Technology, Osaka University, a postdoctoral researcher at Max Planck Institute for Informatics, and a project research associate at Institute of Industrial Science, the University of Tokyo.
+    </p>
+  </div>
 </div>
 <br>
 

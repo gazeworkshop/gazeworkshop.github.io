@@ -117,9 +117,29 @@ pre {
   height: 100%;
 }
 
+div.speaker {
+  margin: 2em 0;
+}
+
+div.speaker
+div.speaker-pic {
+  text-align: right;
+}
+
+div.speaker
+p.speaker-bio {
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+#organizers {
+  margin-top: 1em;
+}
+
 .people-pic {
   max-width: 125px;
   max-height: 125px;
+  border-radius: 125px;
 }
 
 .people-name {
