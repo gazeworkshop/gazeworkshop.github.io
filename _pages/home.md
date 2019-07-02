@@ -70,6 +70,20 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div><br>
 
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Call for Extended Abstracts</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      In addition to regular papers, we also invite extended abstracts of ongoing or published work (<i>e.g.</i> related papers on ICCV main track). We see this as an opportunity for authors to promote their work to an interested audience. Extended abstracts are limited to three pages. The submission must be sent to gaze.iccv19@gmail.com.
+    </p>
+  </div>
+</div><br>
+
+
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
@@ -83,10 +97,6 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
         <tr>
           <td>Paper Submission Deadline</td>
           <td>July 29, 2019</td>
-        </tr>
-        <tr>
-          <td>Reviews Released to Authors</td>
-          <td>August 12, 2019</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
