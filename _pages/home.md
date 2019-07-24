@@ -78,7 +78,9 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 <div class="row">
   <div class="col-xs-12">
     <p>
-      In addition to regular papers, we also invite extended abstracts of ongoing or published work (<i>e.g.</i> related papers on ICCV main track). We see this as an opportunity for authors to promote their work to an interested audience. Extended abstracts are limited to three pages and must be created using <a href="/static/GAZE 2019 Extended Abstract Template.zip" title="GAZE 2019 Extended Abstracts Template">this LaTeX template</a>. The submission must be sent to <a href="mailto:gaze.iccv19@gmail.com">gaze.iccv19@gmail.com</a> by 6th September.
+      In addition to regular papers, we also invite extended abstracts of ongoing or published work (<i>e.g.</i> related papers on ICCV main track). The extended abstracts will not be published or made available to the public (we will only list titles on our website) but will rather be presented during our poster session. We see this as an opportunity for authors to promote their work to an interested audience to gather valuable feedback.
+    </p>
+    <p>Extended abstracts are limited to three pages and must be created using <a href="/static/GAZE 2019 Extended Abstract Template.zip" title="GAZE 2019 Extended Abstracts Template">this LaTeX template</a>. The submission must be sent to <a href="mailto:gaze.iccv19@gmail.com">gaze.iccv19@gmail.com</a> by 6th September.
     </p>
     <p>
       We will evaluate and notify authors of acceptance as soon as possible after receiving their extended abstract submission.
