@@ -51,7 +51,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 <div class="row">
   <div class="col-xs-12">
     <p>
-      <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers (8-page ICCV format) to our workshop, to be presented at a poster session upon acceptance. All submissions will go through a double-blind review process. Accepted papers at ICCV/CVPR 2019 are also welcome to be presented during our poster session to increase exposure and foster discussion in the community. All contributions must be submitted through CMT in the following link: <a href="https://cmt3.research.microsoft.com/GAZE2019" target="_blank" title="CMT Submission System for GAZE 2019">https://cmt3.research.microsoft.com/GAZE2019</a>.
+      <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers (8-page ICCV format) to our workshop, to be presented at a poster session upon acceptance. All submissions will go through a double-blind review process. All contributions must be submitted through CMT in the following link: <a href="https://cmt3.research.microsoft.com/GAZE2019" target="_blank" title="CMT Submission System for GAZE 2019">https://cmt3.research.microsoft.com/GAZE2019</a>.
     </p>
     <p>
       The topics of this workshop include but are not limited to:
@@ -88,6 +88,18 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div><br>
 
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Call for Accepted ICCV/CVPR Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      Accepted papers at the main conference (ICCV 2019) or papers which were presented at CVPR 2019 are welcome to be presented during our poster session to increase the exposure of your work and foster discussion in the community. Please send a PDF document of your camera-ready paper to <a href="mailto:gaze.iccv19@gmail.com">gaze.iccv19@gmail.com</a> at any time to register your presence.
+    </p>
+  </div>
+</div><br>
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
