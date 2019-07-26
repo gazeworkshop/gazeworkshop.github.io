@@ -113,7 +113,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>July 29, 2019</td>
+          <td>July 29, 2019 (23:59 Pacific time)</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
