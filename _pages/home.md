@@ -333,7 +333,7 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
 </div>
 <br>
 
-<div class="row">
+<div class="row" id="programcommittee">
   <div class="col-xs-12">
     <h2>Program Committee</h2>
   </div>
