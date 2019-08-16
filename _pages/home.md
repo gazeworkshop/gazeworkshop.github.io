@@ -343,21 +343,23 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
     <div class="people-name"><a href="https://hyungjinchang.wordpress.com/">Hyung Jin Chang</a><h6>University of Birmingham</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.cc.gatech.edu/~echong8/">Eunji Chong</a><h6>Georgia Tech</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.tobiasfischer.info/">Tobias Fischer</a><h6>Imperial College London</h6></div>
+    <div class="people-name"><a target="_blank" href="http://www.ti.uni-tuebingen.de/Wolfgang-Fuhl.1651.0.html">Wolfgang Fuhl</a><h6>University of Tübingen</h6></div>
   </div>
   <div class="col-xs-3">
-    <div class="people-name"><a target="_blank" href="http://www.ti.uni-tuebingen.de/Wolfgang-Fuhl.1651.0.html">Wolfgang Fuhl</a><h6>University of Tübingen</h6></div>
     <div class="people-name"><a href="https://ait.ethz.ch/people/hilliges/">Otmar Hilliges</a><h6>ETH Zürich</h6></div>
     <div class="people-name"><a target="_blank" href="http://www.inf.u-szeged.hu/~horanyi/">Nora Horanyi</a><h6>University of Birmingham</h6></div>
     <div class="people-name"><a target="_blank" href="https://hyf015.github.io/">Yifei Huang</a><h6>University of Tokyo</h6></div>
+    <div class="people-name"><a target="_blank" href="http://www.ti.uni-tuebingen.de/Dr-Enkelejda-Kasneci.956.0.html">Enkelejda Kasneci</a><h6>University of Tübingen</h6></div>
+    <div class="people-name"><a target="_blank" href="http://pages.cs.wisc.edu/~hwkim/">Hyunwoo J. Kim</a><h6>Korea University</h6></div>
   </div>
   <div class="col-xs-3">
     <div class="people-name"><a href="https://www.cs.bham.ac.uk/~leonarda/">Aleš Leonardis</a><h6>University of Birmingham</h6></div>
     <div class="people-name"><a target="_blank" href="https://aptx4869lm.github.io/">Miao Liu</a><h6>Georgia Tech</h6></div>
     <div class="people-name"><a href="https://ait.ethz.ch/people/spark/">Seonwook Park</a><h6>ETH Zürich</h6></div>
     <div class="people-name"><a target="_blank" href="https://natanielruiz.github.io/">Nataniel Ruiz</a><h6>Boston University</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.unavarra.es/pdi?uid=2247">Arantzazu Villanueva</a><h6>Public University of Navarre</h6></div>
   </div>
   <div class="col-xs-3">
-    <div class="people-name"><a target="_blank" href="https://www.unavarra.es/pdi?uid=2247">Arantzazu Villanueva</a><h6>Public University of Navarre</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.idiap.ch/~yyu/">Yu Yu</a><h6>EPFL</h6></div>
     <div class="people-name"><a href="https://ait.ethz.ch/people/zhang/">Xucong Zhang</a><h6>ETH Zürich</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.ecse.rpi.edu/~cvrl/zhaor/">Rui Zhao</a><h6>Amazon Research</h6></div>
