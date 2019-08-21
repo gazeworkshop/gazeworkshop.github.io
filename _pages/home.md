@@ -261,7 +261,7 @@ Andreas Bulling is Full Professor (W3) of Computer Science at the University of 
 <div class="row speaker">
   <div class="col-xs-3 speaker-pic">
     <a href="https://www.yusuke-sugano.info/">
-      <img class="people-pic" src="{{ "/static/img/people/ys.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/ys_2.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.yusuke-sugano.info/">Yusuke Sugano</a>
