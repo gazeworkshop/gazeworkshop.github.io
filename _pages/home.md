@@ -121,7 +121,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>August 28, 2019</td>
+          <td>August 30, 2019</td>
         </tr>
         <tr>
           <td>Extended Abstracts Deadline</td>
@@ -243,23 +243,6 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 
 <div class="row speaker">
   <div class="col-xs-3 speaker-pic">
-    <a href="https://perceptualui.org/people/bulling/">
-      <img class="people-pic" src="{{ "/static/img/people/ab.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://perceptualui.org/people/bulling/">Andreas Bulling</a>
-      <h6>University of Stuttgart</h6>
-    </div>
-  </div>
-  <div class="col-xs-9">
-    <b>Biography</b>
-    <p class="speaker-bio">
-Andreas Bulling is Full Professor (W3) of Computer Science at the University of Stuttgart where he holds the chair for Human-Computer Interaction and Cognitive Systems. He is also Faculty at the International Max Planck Research School for Intelligent Systems (IMPRS-IS), Member in the Cluster of Excellence "Data-integrated Simulation Science" (SimTech), and partner of Pupil Labs GmbH. He received his MSc. (Dipl.-Inform.) in Computer Science from the Karlsruhe Institute of Technology (KIT), Germany, focusing on embedded systems, robotics, and biomedical engineering. He holds a PhD in Information Technology and Electrical Engineering from the Swiss Federal Institute of Technology (ETH) Zurich, Switzerland. Andreas was previously a Feodor Lynen Research Fellow and a Marie Curie Research Fellow in the Computer Laboratory at the University of Cambridge, UK, a postdoctoral research associate in the School of Computing and Communications at Lancaster University, UK, as well as a Junior Research Fellow at Wolfson College, Cambridge. From 2013 – 2018 he was a Senior Researcher at the Max Planck Institute for Informatics and an Independent Research Group Leader (W2) at the Cluster of Excellence on Multimodal Computing and Interaction (MMCI) at Saarland University. Andreas is UbiComp steering committee member and serves on the editorial boards of the Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Technologies, ACM Transactions on Interactive Intelligent Systems, and the Journal of Eye Movement Research. He served as co-chair, TPC member, and reviewer for major conferences, most recently as TPC co-chair for ACM UbiComp 2016 and IEEE PerCom 2015, associate chair for ACM ETRA 2016 and 2018 as well as ACM CHI 2013, 2014, 2018, and 2019, and general chair for ETRA 2020. He received an ERC Starting Grant in 2018.
-    </p>
-  </div>
-</div>
-<div class="row speaker">
-  <div class="col-xs-3 speaker-pic">
     <a href="https://www.yusuke-sugano.info/">
       <img class="people-pic" src="{{ "/static/img/people/ys_2.jpg" | prepend:site.baseurl }}">
     </a>
@@ -277,6 +260,27 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
 </div>
 <br>
 
+
+<div class="row speaker">
+  <div class="col-xs-3 speaker-pic">
+    <a href="https://www.idiap.ch/~odobez/">
+      <img class="people-pic" src="{{ "/static/img/people/jmo.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.idiap.ch/~odobez/">Jean-Marc Odobez</a>
+      <h6>Idiap Research Institute and EPFL</h6>
+    </div>
+  </div>
+  <div class="col-xs-9">
+    <b>Biography</b>
+    <p class="speaker-bio">
+Dr. Jean-Marc Odobez received his PhD from Rennes University/INRIA in 1994 and was, from 1996 to 2001, Assistant Professor at the University of Maine, France. He is now a Senior Researcher at Idiap and adjunct faculty at the École Polytechnique Fédérale de Lausanne (EPFL) where he is a member of the School of Engineering (STI).
+
+He is the author or coauthor of more than 150 papers, and has been the principal investigator of more than 14 European and Swiss projects. He holds several patents in computer vision, and is the cofounder of the companies Klewel SA (www.klewel.ch) and Eyeware SA (http://www.eyeware.tech/) companies. He is a member of the IEEE, and Associate Editor of the IEEE Transaction on Circuits and Systems for Video Technology and of Machine Vision and Application journals.
+    </p>
+  </div>
+</div>
+<br>
 
 <div class="row" id="organizers">
   <div class="col-xs-12">
