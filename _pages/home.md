@@ -264,7 +264,7 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
 <div class="row speaker">
   <div class="col-xs-3 speaker-pic">
     <a href="https://www.idiap.ch/~odobez/">
-      <img class="people-pic" src="{{ "/static/img/people/jmo.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/jmo.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.idiap.ch/~odobez/">Jean-Marc Odobez</a>
@@ -356,7 +356,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
 <div class="row">
   <div class="col-xs-2">
     <a href="https://hyungjinchang.wordpress.com/">
-      <img class="people-pic" src="{{ "/static/img/people/hj.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/hj.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://hyungjinchang.wordpress.com/">Hyung Jin Chang</a>
@@ -365,7 +365,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
   </div>
   <div class="col-xs-2">
     <a href="https://ait.ethz.ch/people/spark/">
-      <img class="people-pic" src="{{ "/static/img/people/sp.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/sp.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://ait.ethz.ch/people/spark/">Seonwook Park</a>
@@ -374,7 +374,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
   </div>
   <div class="col-xs-2">
     <a href="https://ait.ethz.ch/people/zhang/">
-      <img class="people-pic" src="{{ "/static/img/people/xz.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/xz.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://ait.ethz.ch/people/zhang/">Xucong Zhang</a>
@@ -383,7 +383,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
   </div>
   <div class="col-xs-2">
     <a href="https://ait.ethz.ch/people/hilliges/">
-      <img class="people-pic" src="{{ "/static/img/people/oh.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/oh.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://ait.ethz.ch/people/hilliges/">Otmar Hilliges</a>
@@ -392,7 +392,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
   </div>
   <div class="col-xs-2">
     <a href="https://www.cs.bham.ac.uk/~leonarda/">
-      <img class="people-pic" src="{{ "/static/img/people/al.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/al.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.cs.bham.ac.uk/~leonarda/">Aleš Leonardis</a>
@@ -442,13 +442,13 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
   </div>
 </div>
 <div class="row">
-  <div class="col-md-3">
-    <a href="https://www.samsung.com/"><img src="/static/img/samsung.png" /></a>
+  <div class="col-md-4 sponsor">
+    <a href="https://www.samsung.com/"><img src="/static/img/samsung.jpg" /></a>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4 sponsor">
     <a href="https://www.nvidia.com/"><img src="/static/img/nvidia.jpg" /></a>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4 sponsor">
     <a href="https://www.tobii.com/"><img src="/static/img/tobii.jpg" /></a>
   </div>
 </div>
