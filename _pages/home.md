@@ -310,11 +310,11 @@ Jae-Joon Han is a Master of AI & SW Research Center at <a href="https://www.sait
 
 <div class="row speaker">
   <div class="col-xs-3 speaker-pic">
-    <a href="URL">
+    <a href="https://research.nvidia.com/person/shalini-gupta">
       <img class="people-pic" src="{{ "/static/img/people/sdm.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="URL">Shalini De Mello</a>
+      <a href="https://research.nvidia.com/person/shalini-gupta">Shalini De Mello</a>
       <h6>Nvidia</h6>
     </div>
   </div>
