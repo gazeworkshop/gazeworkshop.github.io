@@ -43,7 +43,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div> <br>
 
-<div class="row" id="dates">
+<div class="row">
   <div class="col-xs-12">
     <h2>Call for Papers</h2>
   </div>
@@ -88,7 +88,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div><br>
 
-<div class="row">
+<div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Call for Accepted ICCV/CVPR Papers</h2>
   </div>
@@ -107,7 +107,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div>
 
-<div class="row">
+<div class="row" id="speakers">
   <div class="col-xs-12">
     <table class="table table-striped">
       <tbody>
@@ -235,7 +235,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 </div>-->
 
 
-<div class="row" id="speakers">
+<div class="row">
   <div class="col-xs-12">
     <h2>Invited Keynote Speakers</h2>
   </div>
@@ -283,7 +283,7 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
 </div>
 <br>
 
-<div class="row" id="speakers">
+<div class="row">
   <div class="col-xs-12">
     <h2>Invited Industry Speakers</h2>
   </div>
