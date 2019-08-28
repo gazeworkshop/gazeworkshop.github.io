@@ -237,7 +237,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Invited Speakers</h2>
+    <h2>Invited Keynote Speakers</h2>
   </div>
 </div>
 
@@ -268,15 +268,80 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
     </a>
     <div class="people-name">
       <a href="https://www.idiap.ch/~odobez/">Jean-Marc Odobez</a>
-      <h6>Idiap Research Institute and EPFL</h6>
+      <h6>Idiap Research Institute <br>and EPFL</h6>
     </div>
   </div>
   <div class="col-xs-9">
     <b>Biography</b>
     <p class="speaker-bio">
-Dr. Jean-Marc Odobez received his PhD from Rennes University/INRIA in 1994 and was, from 1996 to 2001, Assistant Professor at the University of Maine, France. He is now a Senior Researcher at Idiap and adjunct faculty at the École Polytechnique Fédérale de Lausanne (EPFL) where he is a member of the School of Engineering (STI).
+    Dr. Jean-Marc Odobez received his PhD from Rennes University/INRIA in 1994 and was, from 1996 to 2001, Assistant Professor at the University of Maine, France. He is now a Senior Researcher at Idiap and adjunct faculty at the École Polytechnique Fédérale de Lausanne (EPFL) where he is a member of the School of Engineering (STI).
+    </p>
+    <p class="speaker-bio">
+    He is the author or coauthor of more than 150 papers, and has been the principal investigator of more than 14 European and Swiss projects. He holds several patents in computer vision, and is the cofounder of the companies <a href="www.klewel.ch" target="_blank">Klewel SA</a> and <a href="http://www.eyeware.tech/" target="_blank">Eyeware SA</a> companies. He is a member of the IEEE, and Associate Editor of the IEEE Transaction on Circuits and Systems for Video Technology and of Machine Vision and Application journals.
+    </p>
+  </div>
+</div>
+<br>
 
-He is the author or coauthor of more than 150 papers, and has been the principal investigator of more than 14 European and Swiss projects. He holds several patents in computer vision, and is the cofounder of the companies Klewel SA (www.klewel.ch) and Eyeware SA (http://www.eyeware.tech/) companies. He is a member of the IEEE, and Associate Editor of the IEEE Transaction on Circuits and Systems for Video Technology and of Machine Vision and Application journals.
+<div class="row" id="speakers">
+  <div class="col-xs-12">
+    <h2>Invited Industry Speakers</h2>
+  </div>
+</div>
+
+<div class="row speaker">
+  <div class="col-xs-3 speaker-pic">
+    <a href="https://www.researchgate.net/profile/Jae_Joon_Han2">
+      <img class="people-pic" src="{{ "/static/img/people/jjh.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.researchgate.net/profile/Jae_Joon_Han2">Jae-Joon Han</a>
+      <h6>Samsung Electronics</h6>
+    </div>
+  </div>
+  <div class="col-xs-9">
+    <b>Biography</b>
+    <p class="speaker-bio">
+Jae-Joon Han is a Master of AI & SW Research Center at <a href="https://www.sait.samsung.co.kr" target="_blank">Samsung Advanced Institute of Technology (SAIT)</a>, the corporate research of Samsung Electronics. He received Ph.D degree in Electrical and computer engineering from Purdue University in 2006 and did a postdoctoral fellow at Purdue before he joined SAIT in 2007. Since then, he has mainly focused on developing computer vision and machine learning algorithms which enable for users to interact with devices in a novel way. He is currently leading a project related to on-device facial recognition. His research interest includes facial recognition, facial anti-spoofing, speaker verification, neural network model compression for on-device processing and gaze estimation.
+    </p>
+  </div>
+</div>
+<br>
+
+<div class="row speaker">
+  <div class="col-xs-3 speaker-pic">
+    <a href="URL">
+      <img class="people-pic" src="{{ "/static/img/people/sdm.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="URL">Shalini De Mello</a>
+      <h6>Nvidia</h6>
+    </div>
+  </div>
+  <div class="col-xs-9">
+    <b>Biography</b>
+    <p class="speaker-bio">
+Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interests are in computer vision and machine learning for human-computer interaction and smart interfaces. At NVIDIA, she has invented technologies for gaze estimation, and 2D and 3D head pose estimation, hand gesture recognition, face detection, video stabilization and GPU-optimized libraries for mobile computer vision. Her research over that past several years has pushed the envelope of HCI in cars and has led to the development of NVIDIA’s innovative <a href="https://www.nvidia.com/en-us/self-driving-cars/drive-ix/" target="_blank">DriveIX</a> product for smart <a href="https://www.youtube.com/watch?v=EVymqG9mdJg" target="_blank">AI-based automotive interfaces</a> for future generations of cars. She received doctoral and master’s degrees in Electrical and Computer Engineering from the University of Texas at Austin in 2008 and 2004, respectively.
+    </p>
+  </div>
+</div>
+<br>
+
+<div class="row speaker">
+  <div class="col-xs-3 speaker-pic">
+    <a href="https://www.linkedin.com/in/gordonmaria">
+      <img class="people-pic" src="{{ "/static/img/people/mg.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.linkedin.com/in/gordonmaria">Maria Gordon</a>
+      <h6>Tobii</h6>
+    </div>
+  </div>
+  <div class="col-xs-9">
+    <b>Biography</b>
+    <p class="speaker-bio">Maria has been working with software and algorithm development for more than 15 years. During her career she has held a variety of roles from developer to research lead at companies like Philips, Infineon and Saab. Maria joined Tobii’s eye tracking algorithm team in 2015 as a Key Algorithm Engineer.
+    </p>
+    <p class="speaker-bio">An eye tracker that works for every single individual is still a challenge. Maria has experienced from close how PC eye tracking has moved from being a specialty market and research tool to a mainstream gaming equipment. She has also been closely involved in the development of eye tracking for VR and AR, and been part of the work behind releasing products such as the <a href="https://vr.tobii.com/products/htc-vive-pro-eye/" target="_blank">HTC Vive Pro Eye</a>.
     </p>
   </div>
 </div>
@@ -344,28 +409,28 @@ He is the author or coauthor of more than 150 papers, and has been the principal
   <br>
   <div class="col-xs-3">
     <div class="people-name"><a target="_blank" href="https://cai-mj.github.io/">Minjie Cai</a><h6>Hunan University</h6></div>
-    <div class="people-name"><a href="https://hyungjinchang.wordpress.com/">Hyung Jin Chang</a><h6>University of Birmingham</h6></div>
+    <div class="people-name"><a target="_blank" href="https://hyungjinchang.wordpress.com/">Hyung Jin Chang</a><h6>University of Birmingham</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.cc.gatech.edu/~echong8/">Eunji Chong</a><h6>Georgia Tech</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.tobiasfischer.info/">Tobias Fischer</a><h6>Imperial College London</h6></div>
     <div class="people-name"><a target="_blank" href="http://www.ti.uni-tuebingen.de/Wolfgang-Fuhl.1651.0.html">Wolfgang Fuhl</a><h6>University of Tübingen</h6></div>
   </div>
   <div class="col-xs-3">
-    <div class="people-name"><a href="https://ait.ethz.ch/people/hilliges/">Otmar Hilliges</a><h6>ETH Zürich</h6></div>
+    <div class="people-name"><a target="_blank" href="https://ait.ethz.ch/people/hilliges/">Otmar Hilliges</a><h6>ETH Zürich</h6></div>
     <div class="people-name"><a target="_blank" href="http://www.inf.u-szeged.hu/~horanyi/">Nora Horanyi</a><h6>University of Birmingham</h6></div>
     <div class="people-name"><a target="_blank" href="https://hyf015.github.io/">Yifei Huang</a><h6>University of Tokyo</h6></div>
     <div class="people-name"><a target="_blank" href="http://www.ti.uni-tuebingen.de/Dr-Enkelejda-Kasneci.956.0.html">Enkelejda Kasneci</a><h6>University of Tübingen</h6></div>
     <div class="people-name"><a target="_blank" href="http://pages.cs.wisc.edu/~hwkim/">Hyunwoo J. Kim</a><h6>Korea University</h6></div>
   </div>
   <div class="col-xs-3">
-    <div class="people-name"><a href="https://www.cs.bham.ac.uk/~leonarda/">Aleš Leonardis</a><h6>University of Birmingham</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.cs.bham.ac.uk/~leonarda/">Aleš Leonardis</a><h6>University of Birmingham</h6></div>
     <div class="people-name"><a target="_blank" href="https://aptx4869lm.github.io/">Miao Liu</a><h6>Georgia Tech</h6></div>
-    <div class="people-name"><a href="https://ait.ethz.ch/people/spark/">Seonwook Park</a><h6>ETH Zürich</h6></div>
+    <div class="people-name"><a target="_blank" href="https://ait.ethz.ch/people/spark/">Seonwook Park</a><h6>ETH Zürich</h6></div>
     <div class="people-name"><a target="_blank" href="https://natanielruiz.github.io/">Nataniel Ruiz</a><h6>Boston University</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.unavarra.es/pdi?uid=2247">Arantzazu Villanueva</a><h6>Public University of Navarre</h6></div>
   </div>
   <div class="col-xs-3">
     <div class="people-name"><a target="_blank" href="https://www.idiap.ch/~yyu/">Yu Yu</a><h6>EPFL</h6></div>
-    <div class="people-name"><a href="https://ait.ethz.ch/people/zhang/">Xucong Zhang</a><h6>ETH Zürich</h6></div>
+    <div class="people-name"><a target="_blank" href="https://ait.ethz.ch/people/zhang/">Xucong Zhang</a><h6>ETH Zürich</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.ecse.rpi.edu/~cvrl/zhaor/">Rui Zhao</a><h6>Amazon Research</h6></div>
   </div>
 </div>
