@@ -109,11 +109,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
-  </div>
-</div>
-
-<div class="row" id="speakers">
-  <div class="col-xs-12">
+    <br>
     <table class="table table-striped">
       <tbody>
         <tr>
@@ -142,111 +138,187 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 </div><br>
 
 
-<!--div class="row" >
+<div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Schedule</h2>
-  </div>
-</div>
-<p><br /></p>
-<div class="row">
-  <div class="col-md-12">
-  TBD
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-     <table class="table table-striped">
+     <h2>Workshop Schedule</h2>
+     <table class="table schedule" style="border:none !important;">
+      <thead class="thead-light">
+        <tr>
+	  <th>#</th>
+          <!--<th>Time</th>-->
+          <th>Item</th>
+        </tr>
+      </thead>
       <tbody>
         <tr>
-          <td>Welcome and Introduction</td>
-          <td>8:45am - 9:00am</td>
+	  <td>1</td>
+          <!--<td>8:30am - 8:35am</td>-->
+          <td>Welcome and Opening Remarks</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 1</td>
-          <td>9:00am - 9:25am</td>
+	  <td>2</td>
+          <!--<td></td>-->
+          <td>Keynote Talks </td>
+        </tr>
+        <tr class="indent">
+	  <td></td>
+          <!--<td>8:35am - 9:20am</td>-->
+          <td><a href="#yusuke">Yusuke Sugano</a> (University of Tokyo)</td>
+        </tr>
+        <tr class="indent">
+	  <td></td>
+          <!--<td>9:20am - 10:05am</td>-->
+          <td><a href="#jeanmarc">Jean-Marc Odobez</a> (Idiap and EPFL)</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 2</td>
-          <td>9:25am - 9:50am</td>
+	  <td>3</td>
+          <!--<td>10:05am - 10:20am</td>-->
+          <td>Accepted Paper Lightning Talks</td>
+
+
+
+
+        </tr>
+        <tr class="indent papertitle">
+	  <td></td>
+          <td>
+		A Generalized and Robust Method Towards Practical Gaze Estimation on Smart Phone
+	  </td>
+        </tr>
+        <tr class="indent2">
+	  <td></td>
+          <td>
+		Tianchu Guo,
+		Yongchao Liu,
+		Hui Zhang,
+		Xiabing Liu,
+		Youngjun Kwak,
+		ByungIn Yoo,
+		Jae-Joon Han,
+		Changkyu Choi
+	  </td>
+        </tr>
+        <tr class="indent papertitle">
+	  <td></td>
+          <td>
+		Learning to Personalize in Appearance-Based Gaze Tracking
+	  </td>
+        </tr>
+        <tr class="indent2">
+	  <td></td>
+          <td>
+		Erik Lindén,
+		Jonas Sjöstrand,
+		Alexandre Proutiere
+	  </td>
+        </tr>
+        <tr class="indent papertitle">
+	  <td></td>
+          <td>
+		On-device Few-shot Personalization for Real-time Gaze Estimation
+	  </td>
+        </tr>
+        <tr class="indent2">
+	  <td></td>
+          <td>
+		Junfeng He,
+		Khoi Pham,
+		Nachiappan Valliappan,
+		Pingmei Xu,
+		Chase Roberts,
+		Vidhya Navalpakkam,
+		Dmitry Lagun
+	  </td>
+        </tr>
+        <tr class="indent papertitle">
+	  <td></td>
+          <td>
+		  RT-BENE: A dataset and baselines for Real-Time Blink Estimation in Natural Environments
+	  </td>
+        </tr>
+        <tr class="indent2">
+	  <td></td>
+          <td>
+		Kévin Cortacero,
+		Tobias Fischer,
+		Yiannis Demiris
+	  </td>
+        </tr>
+        <tr class="indent papertitle">
+	  <td></td>
+          <td>
+		SalGaze: Personalizing Gaze Estimation using Visual Saliency
+	  </td>
+        </tr>
+        <tr class="indent2">
+	  <td></td>
+          <td>
+		Zhuoqing Chang,
+		J. Matias Di Martino,
+		Qiang Qiu,
+		Guillermo Sapiro
+	  </td>
         </tr>
         <tr>
-          <td>Spotlight Talks (x3)</td>
-          <td>9:50am - 10:10am</td>
-        </tr>
-        <tr>
+	  <td>4</td>
+          <!--<td>10:20am - 11:00am</td>-->
           <td>Coffee Break and Poster Session</td>
-          <td>10:10am - 11:10am</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 3</td>
-          <td>11:10am - 11:35am</td>
+	  <td>5</td>
+          <!--<td></td>-->
+          <td>Industry Keynote Talks </td>
+        </tr>
+        <tr class="indent">
+	  <td></td>
+          <!--<td>11:00am - 11:25am</td>-->
+          <td><a href="#jaejoon">Jae-Joon Han</a> (Samsung Electronics)</td>
+        </tr>
+        <tr class="indent">
+	  <td></td>
+          <!--<td>11:25am - 11:50pm</td>-->
+          <td><a href="#shalini">Shalini De Mello</a> (Nvidia)</td>
+        </tr>
+        <tr class="indent">
+	  <td></td>
+          <!--<td>11:50pm - 12:15</td>-->
+          <td><a href="#maria">Maria Gordon</a> (Tobii)</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 4</td>
-          <td>11:35am - 12:00pm</td>
+	  <td>6</td>
+          <!--<td>12:15pm - 12:40pm</td>-->
+          <td>Panel Discussion</td>
         </tr>
         <tr>
-          <td>Lunch Break</td>
-          <td>12:00pm - 1:30pm</td>
-        </tr>
-        <tr>
-          <td>Invited Speaker Talk 5 (Industry Talks)</td>
-          <td>1:30pm - 2:00pm</td>
-        </tr>
-        <tr>
-          <td>Invited Speaker Talk 6</td>
-          <td>2:00pm - 2:25pm</td>
-        </tr>
-        <tr>
-          <td>Oral 1</td>
-          <td>2:25pm - 2:45pm</td>
-        </tr>
-        <tr>
-          <td>Oral 2</td>
-          <td>2:45pm - 3:05pm</td>
-        </tr>
-        <tr>
-          <td>Coffee Break and Poster Session</td>
-          <td>3:05pm - 4:00pm</td>
-        </tr>
-        <tr>
-          <td>Invited Speaker Talk 7</td>
-          <td>4:00pm - 4:25pm</td>
-        </tr>
-        <tr>
-          <td>Invited Speaker Talk 8</td>
-          <td>4:25pm - 4:50pm</td>
-        </tr>
-        <tr>
-          <td>Panel Discussion and Conclusion</td>
-          <td>4:50pm - 5:40pm</td>
+	  <td>7</td>
+          <!--<td>12:40pm - 12:50pm</td>-->
+          <td>Presentation of Awards and Closing Remarks</td>
         </tr>
       </tbody>
     </table>
   </div>
-</div>-->
+</div>
 
-<!--br>
+<!--<br>
 <div class="row">
   <div class="col-md-12">
     <h2>Accepted Papers</h2>
+
+
   </div>
 </div>
-<p><br /></p>
-<div class="row">
-  <div class="col-md-12">
-  TBD
-  </div>
-</div>-->
+-->
+
+<br>
 
 
-<div class="row">
+<div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Keynote Speakers</h2>
   </div>
 </div>
 
-<div class="row speaker">
+<div class="row speaker" id="yusuke">
   <div class="col-xs-3 speaker-pic">
     <a href="https://www.yusuke-sugano.info/">
       <img class="people-pic" src="{{ "/static/img/people/ys_2.jpg" | prepend:site.baseurl }}">
@@ -266,7 +338,7 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
 <br>
 
 
-<div class="row speaker">
+<div class="row speaker" id="jeanmarc">
   <div class="col-xs-3 speaker-pic">
     <a href="https://www.idiap.ch/~odobez/">
       <img class="people-pic" src="{{ "/static/img/people/jmo.jpg" | prepend:site.baseurl }}">
@@ -294,7 +366,7 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
   </div>
 </div>
 
-<div class="row speaker">
+<div class="row speaker" id="jaejoon">
   <div class="col-xs-3 speaker-pic">
     <a href="https://www.researchgate.net/profile/Jae_Joon_Han2">
       <img class="people-pic" src="{{ "/static/img/people/jjh.jpg" | prepend:site.baseurl }}">
@@ -313,7 +385,7 @@ Jae-Joon Han is a Master of AI & SW Research Center at <a href="https://www.sait
 </div>
 <br>
 
-<div class="row speaker">
+<div class="row speaker" id="shalini">
   <div class="col-xs-3 speaker-pic">
     <a href="https://research.nvidia.com/person/shalini-gupta">
       <img class="people-pic" src="{{ "/static/img/people/sdm.jpg" | prepend:site.baseurl }}">
@@ -332,7 +404,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
 </div>
 <br>
 
-<div class="row speaker">
+<div class="row speaker" id="maria">
   <div class="col-xs-3 speaker-pic">
     <a href="https://www.linkedin.com/in/gordonmaria">
       <img class="people-pic" src="{{ "/static/img/people/mg.jpg" | prepend:site.baseurl }}">
@@ -462,7 +534,8 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
 <hr>
 <br>
 
-<!--div class="row">
+<!--
+<div class="row">
   <div class="col-xs-12">
     <h2>References</h2>
   </div>
