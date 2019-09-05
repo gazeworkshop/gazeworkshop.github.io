@@ -43,63 +43,68 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
   </div>
 </div> <br>
 
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Call for Papers</h2>
+<div class="row" id="call">
+  <div class="col-xs-12 panel-group">
+    <h2>Call for Contributions</h2>
+    <br>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-papers" style="cursor:pointer;">
+        <h3 style="margin:0;">Full Workshop Papers</h3>
+      </div>
+      <div id="call-papers" class="panel-collapse collapse" data-parent="#call">
+        <div class="panel-body">
+          <p>
+	    <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers (8-page ICCV format) to our workshop, to be presented at a poster session upon acceptance. All submissions will go through a double-blind review process. All contributions must be submitted through CMT in the following link: <a href="https://cmt3.research.microsoft.com/GAZE2019" target="_blank" title="CMT Submission System for GAZE 2019">https://cmt3.research.microsoft.com/GAZE2019</a>.
+          </p>
+          <p>
+            The topics of this workshop include but are not limited to:
+          </p>
+          <ul>
+            <li>Proposal of novel eye detection, gaze estimation, and gaze prediction pipelines using deep convolutional neural networks.</li>
+            <li>Incorporating geometric and anatomical constraints into neural networks in a differentiable manner.</li>
+            <!--<li>Exploring attention mechanisms to improve the estimation or prediction of users’ points of regard.</li>-->
+            <li>Demonstration of robustness to conditions where current methods fail (illumination, appearance, low-resolution etc.).</li>
+            <li>Robust estimation from different data modalities such as RGB, depth, and near infra-red.<!--, head pose, and eye region landmarks--></li>
+            <li>Leveraging additional cues such as task context, temporal information, eye movement classification.</li>
+            <li>Designing new accurate metrics to account for rapid eye movements in the real world.</li>
+            <li>Semi-supervised / unsupervised / self-supervised learning, meta-learning, domain adaptation, attention mechanisms and other related machine learning methods for gaze estimation.</li>
+            <li>Methods for temporal gaze estimation and prediction including bayesian methods.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-ea" style="cursor:pointer;">
+        <h3 style="margin:0;">Extended Abstracts</h3>
+      </div>
+      <div id="call-ea" class="panel-collapse collapse in" data-parent="#call">
+        <div class="panel-body">
+          <p>
+            In addition to regular papers, we also invite extended abstracts of ongoing or published work (<i>e.g.</i> related papers on ICCV main track). The extended abstracts will not be published or made available to the public (we will only list titles on our website) but will rather be presented during our poster session. We see this as an opportunity for authors to promote their work to an interested audience to gather valuable feedback.
+          </p>
+          <p>Extended abstracts are limited to three pages and must be created using <a href="/static/GAZE 2019 Extended Abstract Template.zip" title="GAZE 2019 Extended Abstracts Template">this LaTeX template</a>. The submission must be sent to <a href="mailto:gaze.iccv19@gmail.com">gaze.iccv19@gmail.com</a> by 6th September.
+          </p>
+          <p>
+            We will evaluate and notify authors of acceptance as soon as possible after receiving their extended abstract submission.
+          </p>
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-poster" style="cursor:pointer;">
+        <h3 style="margin:0;">Accepted ICCV/CVPR Papers</h3>
+      </div>
+      <div id="call-poster" class="panel-collapse collapse in" data-parent="#call">
+        <div class="panel-body">
+          Accepted papers at the main conference (ICCV 2019) or papers which were presented at CVPR 2019 are welcome to be presented during our poster session to increase the exposure of your work and foster discussion in the community. Please send a PDF document of your camera-ready paper to <a href="mailto:gaze.iccv19@gmail.com">gaze.iccv19@gmail.com</a> at any time to register your presence.
+        </div>
+      </div>
+    </div>
   </div>
 </div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers (8-page ICCV format) to our workshop, to be presented at a poster session upon acceptance. All submissions will go through a double-blind review process. All contributions must be submitted through CMT in the following link: <a href="https://cmt3.research.microsoft.com/GAZE2019" target="_blank" title="CMT Submission System for GAZE 2019">https://cmt3.research.microsoft.com/GAZE2019</a>.
-    </p>
-    <p>
-      The topics of this workshop include but are not limited to:
-    </p>
-    <ul>
-      <li>Proposal of novel eye detection, gaze estimation, and gaze prediction pipelines using deep convolutional neural networks.</li>
-      <li>Incorporating geometric and anatomical constraints into neural networks in a differentiable manner.</li>
-      <!--<li>Exploring attention mechanisms to improve the estimation or prediction of users’ points of regard.</li>-->
-      <li>Demonstration of robustness to conditions where current methods fail (illumination, appearance, low-resolution etc.).</li>
-      <li>Robust estimation from different data modalities such as RGB, depth, and near infra-red.<!--, head pose, and eye region landmarks--></li>
-      <li>Leveraging additional cues such as task context, temporal information, eye movement classification.</li>
-      <li>Designing new accurate metrics to account for rapid eye movements in the real world.</li>
-      <li>Semi-supervised / unsupervised / self-supervised learning, meta-learning, domain adaptation, attention mechanisms and other related machine learning methods for gaze estimation.</li>
-      <li>Methods for temporal gaze estimation and prediction including bayesian methods.</li>
-    </ul>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Call for Extended Abstracts</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      In addition to regular papers, we also invite extended abstracts of ongoing or published work (<i>e.g.</i> related papers on ICCV main track). The extended abstracts will not be published or made available to the public (we will only list titles on our website) but will rather be presented during our poster session. We see this as an opportunity for authors to promote their work to an interested audience to gather valuable feedback.
-    </p>
-    <p>Extended abstracts are limited to three pages and must be created using <a href="/static/GAZE 2019 Extended Abstract Template.zip" title="GAZE 2019 Extended Abstracts Template">this LaTeX template</a>. The submission must be sent to <a href="mailto:gaze.iccv19@gmail.com">gaze.iccv19@gmail.com</a> by 6th September.
-    </p>
-    <p>
-      We will evaluate and notify authors of acceptance as soon as possible after receiving their extended abstract submission.
-    </p>
-  </div>
-</div><br>
-
-<div class="row" id="dates">
-  <div class="col-xs-12">
-    <h2>Call for Accepted ICCV/CVPR Papers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      Accepted papers at the main conference (ICCV 2019) or papers which were presented at CVPR 2019 are welcome to be presented during our poster session to increase the exposure of your work and foster discussion in the community. Please send a PDF document of your camera-ready paper to <a href="mailto:gaze.iccv19@gmail.com">gaze.iccv19@gmail.com</a> at any time to register your presence.
-    </p>
-  </div>
-</div><br>
+<br>
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
