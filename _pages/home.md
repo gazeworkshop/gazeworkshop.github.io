@@ -106,7 +106,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 </div>
 <br>
 
-<div class="row" id="schedule">
+<div class="row">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
     <br>
@@ -124,7 +124,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
           <td>Camera-Ready Deadline</td>
           <td>August 30, 2019</td>
         </tr>
-        <tr>
+        <tr id="schedule">
           <td>Extended Abstracts Deadline</td>
           <td><s style="color:darkred;">September 6</s> September 16, 2019</td>
         </tr>
@@ -138,7 +138,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 </div><br>
 
 
-<div class="row" id="speakers">
+<div class="row">
   <div class="col-xs-12">
      <h2>Workshop Schedule</h2>
      <table class="table schedule" style="border:none !important;">
@@ -173,91 +173,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
         <tr>
 	  <td>3</td>
           <!--<td>10:05am - 10:20am</td>-->
-          <td>Accepted Paper Lightning Talks</td>
-
-
-
-
-        </tr>
-        <tr class="indent papertitle">
-	  <td></td>
-          <td>
-		A Generalized and Robust Method Towards Practical Gaze Estimation on Smart Phone
-	  </td>
-        </tr>
-        <tr class="indent2">
-	  <td></td>
-          <td>
-		Tianchu Guo,
-		Yongchao Liu,
-		Hui Zhang,
-		Xiabing Liu,
-		Youngjun Kwak,
-		ByungIn Yoo,
-		Jae-Joon Han,
-		Changkyu Choi
-	  </td>
-        </tr>
-        <tr class="indent papertitle">
-	  <td></td>
-          <td>
-		Learning to Personalize in Appearance-Based Gaze Tracking
-	  </td>
-        </tr>
-        <tr class="indent2">
-	  <td></td>
-          <td>
-		Erik Lindén,
-		Jonas Sjöstrand,
-		Alexandre Proutiere
-	  </td>
-        </tr>
-        <tr class="indent papertitle">
-	  <td></td>
-          <td>
-		On-device Few-shot Personalization for Real-time Gaze Estimation
-	  </td>
-        </tr>
-        <tr class="indent2">
-	  <td></td>
-          <td>
-		Junfeng He,
-		Khoi Pham,
-		Nachiappan Valliappan,
-		Pingmei Xu,
-		Chase Roberts,
-		Vidhya Navalpakkam,
-		Dmitry Lagun
-	  </td>
-        </tr>
-        <tr class="indent papertitle">
-	  <td></td>
-          <td>
-		  RT-BENE: A dataset and baselines for Real-Time Blink Estimation in Natural Environments
-	  </td>
-        </tr>
-        <tr class="indent2">
-	  <td></td>
-          <td>
-		Kévin Cortacero,
-		Tobias Fischer,
-		Yiannis Demiris
-	  </td>
-        </tr>
-        <tr class="indent papertitle">
-	  <td></td>
-          <td>
-		SalGaze: Personalizing Gaze Estimation using Visual Saliency
-	  </td>
-        </tr>
-        <tr class="indent2">
-	  <td></td>
-          <td>
-		Zhuoqing Chang,
-		J. Matias Di Martino,
-		Qiang Qiu,
-		Guillermo Sapiro
-	  </td>
+          <td>Accepted Full Paper Lightning Talks</td>
         </tr>
         <tr>
 	  <td>4</td>
@@ -284,7 +200,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
           <!--<td>11:50pm - 12:15</td>-->
           <td><a href="#maria">Maria Gordon</a> (Tobii)</td>
         </tr>
-        <tr>
+        <tr id="speakers">
 	  <td>6</td>
           <!--<td>12:15pm - 12:40pm</td>-->
           <td>Panel Discussion</td>
@@ -312,7 +228,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
 <br>
 
 
-<div class="row" id="speakers">
+<div class="row">
   <div class="col-xs-12">
     <h2>Invited Keynote Speakers</h2>
   </div>
@@ -418,8 +334,53 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
     <b>Biography</b>
     <p class="speaker-bio">Maria has been working with software and algorithm development for more than 15 years. During her career she has held a variety of roles from developer to research lead at companies like Philips, Infineon and Saab. Maria joined Tobii’s eye tracking algorithm team in 2015 as a Key Algorithm Engineer.
     </p>
-    <p class="speaker-bio">An eye tracker that works for every single individual is still a challenge. Maria has experienced from close how PC eye tracking has moved from being a specialty market and research tool to a mainstream gaming equipment. She has also been closely involved in the development of eye tracking for VR and AR, and been part of the work behind releasing products such as the <a href="https://vr.tobii.com/products/htc-vive-pro-eye/" target="_blank">HTC Vive Pro Eye</a>.
+    <p class="speaker-bio" id="accepted">An eye tracker that works for every single individual is still a challenge. Maria has experienced from close how PC eye tracking has moved from being a specialty market and research tool to a mainstream gaming equipment. She has also been closely involved in the development of eye tracking for VR and AR, and been part of the work behind releasing products such as the <a href="https://vr.tobii.com/products/htc-vive-pro-eye/" target="_blank">HTC Vive Pro Eye</a>.
     </p>
+  </div>
+</div>
+<br>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Accepted Full Papers</h2>
+    <div class="paper">
+        <span class="title">A Generalized and Robust Method Towards Practical Gaze Estimation on Smart Phone</span>
+        <span class="authors">Tianchu Guo, Yongchao Liu, Hui Zhang, Xiabing Liu, Youngjun Kwak, ByungIn Yoo, Jae-Joon Han, Changkyu Choi</span>
+    </div>
+    <div class="paper">
+        <span class="title">Learning to Personalize in Appearance-Based Gaze Tracking</span>
+        <span class="authors">Erik Lindén, Jonas Sjöstrand, Alexandre Proutiere</span>
+    </div>
+    <div class="paper">
+        <span class="title">On-device Few-shot Personalization for Real-time Gaze Estimation</span>
+        <span class="authors">Junfeng He, Khoi Pham, Nachiappan Valliappan, Pingmei Xu, Chase Roberts, Vidhya Navalpakkam, Dmitry Lagun</span>
+    </div>
+    <div class="paper">
+        <span class="title">RT-BENE: A dataset and baselines for Real-Time Blink Estimation in Natural Environments</span>
+        <span class="authors">Kévin Cortacero, Tobias Fischer, Yiannis Demiris</span>
+    </div>
+    <div class="paper">
+        <span class="title">SalGaze: Personalizing Gaze Estimation using Visual Saliency</span>
+        <span class="authors">Zhuoqing Chang, J. Matias Di Martino, Qiang Qiu, Guillermo Sapiro</span>
+    </div>
+  </div>
+</div>
+<br>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Accepted Posters</h2>
+    <!--<h3>Extended Abstracts</h3>-->
+
+    <h3>From the Main Conference (ICCV/CVPR)</h3>
+    <div class="paper">
+        <span class="title">Few-Shot Adaptive Gaze Estimation</span>
+        <span class="authors">Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz</span>
+    </div>
+    <div class="paper">
+        <span class="title">Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks</span>
+        <span class="authors">Zhe He, Adrian Spurr, Xucong Zhang, Otmar Hilliges</span>
+    </div>
   </div>
 </div>
 <br>
