@@ -354,7 +354,7 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
     Dr. Jean-Marc Odobez received his PhD from Rennes University/INRIA in 1994 and was, from 1996 to 2001, Assistant Professor at the University of Maine, France. He is now a Senior Researcher at Idiap and adjunct faculty at the École Polytechnique Fédérale de Lausanne (EPFL) where he is a member of the School of Engineering (STI).
     </p>
     <p class="speaker-bio">
-    He is the author or coauthor of more than 150 papers, and has been the principal investigator of more than 14 European and Swiss projects. He holds several patents in computer vision, and is the cofounder of the companies <a href="www.klewel.ch" target="_blank">Klewel SA</a> and <a href="http://www.eyeware.tech/" target="_blank">Eyeware SA</a> companies. He is a member of the IEEE, and Associate Editor of the IEEE Transaction on Circuits and Systems for Video Technology and of Machine Vision and Application journals.
+    He is the author or coauthor of more than 150 papers, and has been the principal investigator of more than 14 European and Swiss projects. He holds several patents in computer vision, and is the cofounder of the companies <a href="http://www.klewel.com" target="_blank">Klewel SA</a> and <a href="http://www.eyeware.tech/" target="_blank">Eyeware SA</a> companies. He is a member of the IEEE, and Associate Editor of the IEEE Transaction on Circuits and Systems for Video Technology and of Machine Vision and Application journals.
     </p>
   </div>
 </div>
