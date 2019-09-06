@@ -370,9 +370,14 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
 <div class="row">
   <div class="col-xs-12">
     <h2>Accepted Posters</h2>
-    <!--<h3>Extended Abstracts</h3>-->
+    Extended Abstracts
+    <div class="paper">
+        <span class="title">High-Speed Pupil Tracking based on Deep Random Forests</span>
+        <span class="authors">MinJi Park, Mira Jeong, ByoungChul Ko</span>
+    </div>
 
-    <h3>From the Main Conference (ICCV/CVPR)</h3>
+    <br>
+    From the Main Conference (ICCV/CVPR)
     <div class="paper">
         <span class="title">Few-Shot Adaptive Gaze Estimation</span>
         <span class="authors">Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz</span>
@@ -383,6 +388,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
     </div>
   </div>
 </div>
+<br>
 <br>
 
 <div class="row" id="organizers">
