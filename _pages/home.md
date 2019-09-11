@@ -386,6 +386,10 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
         <span class="title">Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks</span>
         <span class="authors">Zhe He, Adrian Spurr, Xucong Zhang, Otmar Hilliges</span>
     </div>
+    <div class="paper">
+        <span class="title">Gaze360: Physically Unconstrained Gaze Estimation in the Wild</span>
+        <span class="authors">Petr Kellnhofer, Adrià Recasens, Simon Stent, Wojciech Matusik, and Antonio Torralba/span>
+    </div>
   </div>
 </div>
 <br>
