@@ -388,7 +388,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
     </div>
     <div class="paper">
         <span class="title">Gaze360: Physically Unconstrained Gaze Estimation in the Wild</span>
-        <span class="authors">Petr Kellnhofer, Adrià Recasens, Simon Stent, Wojciech Matusik, and Antonio Torralba/span>
+        <span class="authors">Petr Kellnhofer, Adrià Recasens, Simon Stent, Wojciech Matusik, and Antonio Torralba</span>
     </div>
   </div>
 </div>
