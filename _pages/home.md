@@ -78,7 +78,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
       <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-ea" style="cursor:pointer;">
         <h3 style="margin:0;">Extended Abstracts</h3>
       </div>
-      <div id="call-ea" class="panel-collapse collapse in" data-parent="#call">
+      <div id="call-ea" class="panel-collapse collapse" data-parent="#call">
         <div class="panel-body">
           <p>
             In addition to regular papers, we also invite extended abstracts of ongoing or published work (<i>e.g.</i> related papers on ICCV main track). The extended abstracts will not be published or made available to the public (we will only list titles on our website) but will rather be presented during our poster session. We see this as an opportunity for authors to promote their work to an interested audience to gather valuable feedback.
