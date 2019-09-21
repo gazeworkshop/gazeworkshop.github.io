@@ -188,7 +188,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at IC
         <tr class="indent">
 	  <td></td>
           <!--<td>11:00am - 11:25am</td>-->
-          <td><a href="#jaejoon">Jae-Joon Han</a> (Samsung Electronics)</td>
+          <td><a href="#jaejoon">Jae-Joon Han</a> (Samsung Advanced Institute of Technology)</td>
         </tr>
         <tr class="indent">
 	  <td></td>
@@ -289,7 +289,7 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
     </a>
     <div class="people-name">
       <a href="https://www.researchgate.net/profile/Jae_Joon_Han2">Jae-Joon Han</a>
-      <h6>Samsung Electronics</h6>
+      <h6>Samsung Advanced Institute of Technology</h6>
     </div>
   </div>
   <div class="col-xs-9">
@@ -410,6 +410,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
 </div>
 
 <div class="row">
+  <div class="col-xs-1"></div>
   <div class="col-xs-2">
     <a href="https://hyungjinchang.wordpress.com/">
       <img class="people-pic" src="{{ "/static/img/people/hj.jpg" | prepend:site.baseurl }}">
@@ -455,6 +456,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
       <h6>University of Birmingham</h6>
     </div>
   </div>
+  <div class="col-xs-1"></div>
 </div>
 <br>
 
@@ -462,7 +464,8 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
   <div class="col-xs-12">
     <h2>Program Committee</h2>
   </div>
-  <br>
+</div>
+<div class="row">
   <div class="col-xs-3">
     <div class="people-name"><a target="_blank" href="https://cai-mj.github.io/">Minjie Cai</a><h6>Hunan University</h6></div>
     <div class="people-name"><a target="_blank" href="https://hyungjinchang.wordpress.com/">Hyung Jin Chang</a><h6>University of Birmingham</h6></div>
@@ -492,22 +495,67 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
 </div>
 <br>
 
-<div class="row" >
+<div class="row" id="sponsors">
   <div class="col-xs-12">
     <h2>Workshop sponsored by:</h2>
   </div>
 </div>
 <div class="row">
-  <div class="col-md-4 sponsor">
+  <div class="col-xs-2"></div>
+  <div class="col-xs-2 sponsor">
     <a href="https://www.samsung.com/"><img src="/static/img/samsung.jpg" /></a>
   </div>
-  <div class="col-md-4 sponsor">
+  <div class="col-xs-1"></div>
+  <div class="col-xs-2 sponsor">
     <a href="https://www.nvidia.com/"><img src="/static/img/nvidia.jpg" /></a>
   </div>
-  <div class="col-md-4 sponsor">
+  <div class="col-xs-1"></div>
+  <div class="col-xs-2 sponsor">
     <a href="https://www.tobii.com/"><img src="/static/img/tobii.jpg" /></a>
   </div>
+  <div class="col-xs-2"></div>
 </div>
+<div class="row">
+  <div class="col-xs-12">
+  	A special thank you to our industry liaisons:
+	<br>
+	<br>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-2"></div>
+  <div class="col-xs-2">
+    <a href="https://www.researchgate.net/profile/Changkyu_Choi">
+      <img class="people-pic" src="{{ "/static/img/people/ckc.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.researchgate.net/profile/Changkyu_Choi">Changkyu Choi</a>
+      <h6>Samsung Advanced Institute of Technology</h6>
+    </div>
+  </div>
+  <div class="col-xs-1"></div>
+  <div class="col-xs-2">
+    <a href="https://research.nvidia.com/person/shalini-gupta">
+      <img class="people-pic" src="{{ "/static/img/people/sdm.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://research.nvidia.com/person/shalini-gupta">Shalini De Mello</a>
+      <h6>Nvidia</h6>
+    </div>
+  </div>
+  <div class="col-xs-1"></div>
+  <div class="col-xs-2">
+    <a href="https://scholar.google.com/citations?user=63IsxdAAAAAJ&hl=en">
+      <img class="people-pic" src="{{ "/static/img/people/kj.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://scholar.google.com/citations?user=63IsxdAAAAAJ&hl=en">Krister Jacobsson</a>
+      <h6>Tobii</h6>
+    </div>
+  </div>
+  <div class="col-xs-2"></div>
+</div>
+<br>
 
 
 <hr>

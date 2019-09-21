@@ -1,3 +1,7 @@
+ul.navbar-nav {
+  font-size: 15px;
+}
+
 body {
   font-size: 16px;
   line-height: 23px;
@@ -192,9 +196,13 @@ p.speaker-bio {
 
 .sponsor {
   text-align: center;
+  height: 7rem;
+  display: table;
 }
 
 .sponsor > a {
+  display: table-cell;
+  vertical-align: bottom;
   border: none;
 }
 
