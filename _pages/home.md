@@ -398,6 +398,10 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
         <span class="title">Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning</span>
         <span class="authors">Lifeng Fan, Wenguan Wang, Siyuan Huang, Xinyu Tang, and Song-Chun Zhu</span>
     </div>
+    <div class="paper">
+        <span class="title">Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis</span>
+        <span class="authors">Yu Yu, Gang Liu, Jean-Marc Odobez</span>
+    </div>
   </div>
 </div>
 <br>
