@@ -1,6 +1,13 @@
 ul.navbar-nav {
   font-size: 15px;
 }
+@media (max-width:1000px) {
+	ul.navbar-nav {
+		font-size: 10px;
+	}
+	h1 {font-size: 24px !important;}
+	h2 {font-size: 20px !important;}
+}
 
 body {
   font-size: 16px;
@@ -141,20 +148,36 @@ p.speaker-bio {
 }
 
 .people-pic {
-  min-width: 125px;
   max-width: 125px;
   max-height: 125px;
   border-radius: 125px;
 }
 
 .people-name {
-  margin: 5px 0 10px;
+  margin: 10px 0 10px;
 }
 
 .people-name h6 {
-  margin: 2px 0;
+  margin: 4px 0;
   font-weight: 300;
   font-size: 11px;
+}
+@media (max-width:1000px) {
+	div.speaker img.people-pic {
+		max-width: 100px;
+		max-height: 100px;
+	}
+	.people-pic {
+		max-width: 65px;
+		max-height: 65px;
+	}
+	.people-name {
+		font-size: 13px;
+		line-height: 18px;
+	}
+	.people-name h6 {
+		font-size: 9px;
+	}
 }
 
 #sequence {
@@ -266,6 +289,38 @@ div.paper span.authors {
   transition: color 0.5s;
 }
 div.paper:hover,
-div.paper:hover span.authors {
-  color: black;
+div.paper:hover span.authors,
+div.paper:hover .btn-default {
+	color: black;
+}
+div.paper span.label {
+	font-size: 10px;
+}
+div.paper div.btn-group {
+  margin-top: 8px;
+}
+div.paper .btn {
+	text-transform: none !important;
+	box-shadow: none;
+	border: 1px solid #999;
+	border-radius: 10px;
+	margin-right: -1px;
+	padding: 4px 8px;
+}
+div.paper .btn-default {
+	color: #999;
+}
+div.paper .btn-success {
+	cursor: default;
+}
+div.paper i.fas {
+	margin-right: 4px;
+}
+@media (max-width:1000px) {
+	div.paper span.title {
+		font-size: 15px;
+	}
+	div.paper span.authors {
+		font-size: 13px;
+	}
 }

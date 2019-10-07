@@ -96,7 +96,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at <a
       <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-poster" style="cursor:pointer;">
         <h3 style="margin:0;">Accepted ICCV/CVPR Papers</h3>
       </div>
-      <div id="call-poster" class="panel-collapse collapse in" data-parent="#call">
+      <div id="call-poster" class="panel-collapse collapse" data-parent="#call">
         <div class="panel-body">
           Relevant papers that were accepted at the main conference (ICCV 2019) or at CVPR 2019 are welcome to be presented during our poster session to increase the exposure of your work and foster discussion in the community. Please send a PDF document of your camera-ready paper to <a href="mailto:gaze.iccv19@gmail.com">gaze.iccv19@gmail.com</a> at any time to register your presence.
         </div>
@@ -235,7 +235,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at <a
 </div>
 
 <div class="row speaker" id="yusuke">
-  <div class="col-xs-3 speaker-pic">
+  <div class="col-sm-3 speaker-pic">
     <a href="https://www.yusuke-sugano.info/">
       <img class="people-pic" src="{{ "/static/img/people/ys_2.jpg" | prepend:site.baseurl }}">
     </a>
@@ -244,7 +244,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at <a
       <h6>University of Tokyo</h6>
     </div>
   </div>
-  <div class="col-xs-9">
+  <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
 Yusuke Sugano is an associate professor at Institute of Industrial Science, The University of Tokyo. His research interests focus on computer vision and human-computer interaction. He received his Ph.D. in information science and technology from the University of Tokyo in 2010. He was previously an associate professor at Graduate School of Information Science and Technology, Osaka University, a postdoctoral researcher at Max Planck Institute for Informatics, and a project research associate at Institute of Industrial Science, the University of Tokyo.
@@ -255,7 +255,7 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
 
 
 <div class="row speaker" id="jeanmarc">
-  <div class="col-xs-3 speaker-pic">
+  <div class="col-sm-3 speaker-pic">
     <a href="https://www.idiap.ch/~odobez/">
       <img class="people-pic" src="{{ "/static/img/people/jmo.jpg" | prepend:site.baseurl }}">
     </a>
@@ -264,7 +264,7 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
       <h6>Idiap Research Institute <br>and EPFL</h6>
     </div>
   </div>
-  <div class="col-xs-9">
+  <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
     Dr. Jean-Marc Odobez received his PhD from Rennes University/INRIA in 1994 and was, from 1996 to 2001, Assistant Professor at the University of Maine, France. He is now a Senior Researcher at Idiap and adjunct faculty at the École Polytechnique Fédérale de Lausanne (EPFL) where he is a member of the School of Engineering (STI).
@@ -283,7 +283,7 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
 </div>
 
 <div class="row speaker" id="jaejoon">
-  <div class="col-xs-3 speaker-pic">
+  <div class="col-sm-3 speaker-pic">
     <a href="https://www.researchgate.net/profile/Jae_Joon_Han2">
       <img class="people-pic" src="{{ "/static/img/people/jjh.jpg" | prepend:site.baseurl }}">
     </a>
@@ -292,7 +292,7 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
       <h6>Samsung Advanced Institute of Technology</h6>
     </div>
   </div>
-  <div class="col-xs-9">
+  <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
 Jae-Joon Han is a Master of AI & SW Research Center at <a href="https://www.sait.samsung.co.kr" target="_blank">Samsung Advanced Institute of Technology (SAIT)</a>, the corporate research of Samsung Electronics. He received Ph.D degree in Electrical and computer engineering from Purdue University in 2006 and did a postdoctoral fellow at Purdue before he joined SAIT in 2007. Since then, he has mainly focused on developing computer vision and machine learning algorithms which enable for users to interact with devices in a novel way. He is currently leading a project related to on-device facial recognition. His research interest includes facial recognition, facial anti-spoofing, speaker verification, neural network model compression for on-device processing and gaze estimation.
@@ -302,7 +302,7 @@ Jae-Joon Han is a Master of AI & SW Research Center at <a href="https://www.sait
 <br>
 
 <div class="row speaker" id="shalini">
-  <div class="col-xs-3 speaker-pic">
+  <div class="col-sm-3 speaker-pic">
     <a href="https://research.nvidia.com/person/shalini-gupta">
       <img class="people-pic" src="{{ "/static/img/people/sdm.jpg" | prepend:site.baseurl }}">
     </a>
@@ -311,7 +311,7 @@ Jae-Joon Han is a Master of AI & SW Research Center at <a href="https://www.sait
       <h6>Nvidia</h6>
     </div>
   </div>
-  <div class="col-xs-9">
+  <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
 Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interests are in computer vision and machine learning for human-computer interaction and smart interfaces. At NVIDIA, she has invented technologies for gaze estimation, and 2D and 3D head pose estimation, hand gesture recognition, face detection, video stabilization and GPU-optimized libraries for mobile computer vision. Her research over that past several years has pushed the envelope of HCI in cars and has led to the development of NVIDIA’s innovative <a href="https://www.nvidia.com/en-us/self-driving-cars/drive-ix/" target="_blank">DriveIX</a> product for smart <a href="https://www.youtube.com/watch?v=EVymqG9mdJg" target="_blank">AI-based automotive interfaces</a> for future generations of cars. She received doctoral and master’s degrees in Electrical and Computer Engineering from the University of Texas at Austin in 2008 and 2004, respectively.
@@ -321,7 +321,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
 <br>
 
 <div class="row speaker" id="maria">
-  <div class="col-xs-3 speaker-pic">
+  <div class="col-sm-3 speaker-pic">
     <a href="https://www.linkedin.com/in/gordonmaria">
       <img class="people-pic" src="{{ "/static/img/people/mg.jpg" | prepend:site.baseurl }}">
     </a>
@@ -330,7 +330,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
       <h6>Tobii</h6>
     </div>
   </div>
-  <div class="col-xs-9">
+  <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">Maria has been working with software and algorithm development for more than 15 years. During her career she has held a variety of roles from developer to research lead at companies like Philips, Infineon and Saab. Maria joined Tobii’s eye tracking algorithm team in 2015 as a Key Algorithm Engineer.
     </p>
@@ -369,39 +369,76 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>Accepted Posters</h2>
-    Extended Abstracts
-    <div class="paper">
-        <span class="title">High-Speed Pupil Tracking based on Deep Random Forests</span>
-        <span class="authors">MinJi Park, Mira Jeong, ByoungChul Ko</span>
-    </div>
+  <h2>Accepted Posters</h2>
+  Extended Abstracts
+  <div class="paper">
+  <span class="title">High-Speed Pupil Tracking based on Deep Random Forests</span>
+  <span class="authors">MinJi Park, Mira Jeong, ByoungChul Ko</span>
+  </div>
 
-    <br>
-    From the Main Conference (ICCV/CVPR)
-    <div class="paper">
-        <span class="title">Few-Shot Adaptive Gaze Estimation</span>
-        <span class="authors">Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz</span>
-    </div>
-    <div class="paper">
-        <span class="title">Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks</span>
-        <span class="authors">Zhe He, Adrian Spurr, Xucong Zhang, Otmar Hilliges</span>
-    </div>
-    <div class="paper">
-        <span class="title">Gaze360: Physically Unconstrained Gaze Estimation in the Wild</span>
-        <span class="authors">Petr Kellnhofer, Adrià Recasens, Simon Stent, Wojciech Matusik, Antonio Torralba</span>
-    </div>
-    <div class="paper">
-        <span class="title">Mixed Effects Neural Networks (MeNets) with Applications to Gaze Estimation</span>
-        <span class="authors">Yunyang Xiong, Hyunwoo J. Kim, Vikas Singh</span>
-    </div>
-    <div class="paper">
-        <span class="title">Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning</span>
-        <span class="authors">Lifeng Fan, Wenguan Wang, Siyuan Huang, Xinyu Tang, Song-Chun Zhu</span>
-    </div>
-    <div class="paper">
-        <span class="title">Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis</span>
-        <span class="authors">Yu Yu, Gang Liu, Jean-Marc Odobez</span>
-    </div>
+  <br>
+  From the Main Conference (ICCV/CVPR)
+
+  <div class="paper">
+  <span class="title">Few-Shot Adaptive Gaze Estimation</span>
+  <span class="authors">Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz</span>
+  <div class="btn-group btn-group-xs" role="group">
+  <button class="btn btn-success">ICCV 2019 Oral</button>
+  <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1905.01941"><i class="fas fa-archive"></i> arXiv</a>
+  <!--<a class="btn btn-default" target="_blank" href="https://github.com/NVlabs/few_shot_gaze"><i class="fas fa-code"></i> Code</a>-->
+  </div>
+  </div>
+
+  <div class="paper">
+  <span class="title">Photo-Realistic Monocular Gaze Redirection Using Generative Adversarial Networks</span>
+  <span class="authors">Zhe He, Adrian Spurr, Xucong Zhang, Otmar Hilliges</span>
+  <div class="btn-group btn-group-xs" role="group">
+  <button class="btn btn-success">ICCV 2019</button>
+  <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1903.12530"><i class="fas fa-archive"></i> arXiv</a>
+  <a class="btn btn-default" target="_blank" href="https://github.com/HzDmS/gaze_redirection"><i class="fas fa-code"></i> Code</a>
+  </div>
+  </div>
+
+  <div class="paper">
+  <span class="title">Gaze360: Physically Unconstrained Gaze Estimation in the Wild</span>
+  <span class="authors">Petr Kellnhofer, Adrià Recasens, Simon Stent, Wojciech Matusik, Antonio Torralba</span>
+  <div class="btn-group btn-group-xs" role="group">
+  <button class="btn btn-success">ICCV 2019</button>
+  <a class="btn btn-default" target="_blank" href="http://gaze360.csail.mit.edu/">       <i class="fas fa-atom"></i> Project Page</a>
+  <a class="btn btn-default" target="_blank" href="https://github.com/erkil1452/gaze360"><i class="fas fa-code"></i> Code and Data</a>
+  </div>
+  </div>
+
+  <div class="paper">
+  <span class="title">Mixed Effects Neural Networks (MeNets) with Applications to Gaze Estimation</span>
+  <span class="authors">Yunyang Xiong, Hyunwoo J. Kim, Vikas Singh</span>
+  <div class="btn-group btn-group-xs" role="group">
+  <button class="btn btn-success">CVPR 2019</button>
+  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Mixed_Effects_Neural_Networks_MeNets_With_Applications_to_Gaze_Estimation_CVPR_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
+  <a class="btn btn-default" target="_blank" href="https://github.com/vsingh-group/MeNets"><i class="fas fa-code"></i> Code</a>
+  </div>
+  </div>
+
+  <div class="paper">
+  <span class="title">Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning</span>
+  <span class="authors">Lifeng Fan, Wenguan Wang, Siyuan Huang, Xinyu Tang, Song-Chun Zhu</span>
+  <div class="btn-group btn-group-xs" role="group">
+  <button class="btn btn-success">ICCV 2019</button>
+  <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1909.02144v1"><i class="fas fa-archive"></i> arXiv</a>
+  <!--<a class="btn btn-default" target="_blank" href=""><i class="fas fa-archive"></i> arXiv</a>-->
+  </div>
+  </div>
+
+  <div class="paper">
+  <span class="title">Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis</span>
+  <span class="authors">Yu Yu, Gang Liu, Jean-Marc Odobez</span>
+  <div class="btn-group btn-group-xs" role="group">
+  <button class="btn btn-success">CVPR 2019</button>
+  <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1904.10638"><i class="fas fa-archive"></i> arXiv</a>
+  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Improving_Few-Shot_User-Specific_Gaze_Adaptation_via_Gaze_Redirection_Synthesis_CVPR_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
+  </div>
+  </div>
+
   </div>
 </div>
 <br>
@@ -505,19 +542,19 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-2"></div>
-  <div class="col-xs-2 sponsor">
+  <!--<div class="col-xs-2"></div>-->
+  <div class="col-xs-4 sponsor">
     <a href="https://www.samsung.com/"><img src="/static/img/samsung.jpg" /></a>
   </div>
-  <div class="col-xs-1"></div>
-  <div class="col-xs-2 sponsor">
+  <!--<div class="col-xs-1"></div>-->
+  <div class="col-xs-4 sponsor">
     <a href="https://www.nvidia.com/"><img src="/static/img/nvidia.jpg" /></a>
   </div>
-  <div class="col-xs-1"></div>
-  <div class="col-xs-2 sponsor">
+  <!--<div class="col-xs-1"></div>-->
+  <div class="col-xs-4 sponsor">
     <a href="https://www.tobii.com/"><img src="/static/img/tobii.jpg" /></a>
   </div>
-  <div class="col-xs-2"></div>
+  <!--<div class="col-xs-2"></div>-->
 </div>
 <div class="row">
   <div class="col-xs-12">
@@ -527,8 +564,8 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-2"></div>
-  <div class="col-xs-2">
+  <div class="col-xs-1"></div>
+  <div class="col-xs-3">
     <a href="https://www.researchgate.net/profile/Changkyu_Choi">
       <img class="people-pic" src="{{ "/static/img/people/ckc.jpg" | prepend:site.baseurl }}">
     </a>
@@ -538,7 +575,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
     </div>
   </div>
   <div class="col-xs-1"></div>
-  <div class="col-xs-2">
+  <div class="col-xs-3">
     <a href="https://research.nvidia.com/person/shalini-gupta">
       <img class="people-pic" src="{{ "/static/img/people/sdm.jpg" | prepend:site.baseurl }}">
     </a>
@@ -548,7 +585,7 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
     </div>
   </div>
   <div class="col-xs-1"></div>
-  <div class="col-xs-2">
+  <div class="col-xs-3">
     <a href="https://scholar.google.com/citations?user=63IsxdAAAAAJ&hl=en">
       <img class="people-pic" src="{{ "/static/img/people/kj.jpg" | prepend:site.baseurl }}">
     </a>
@@ -557,7 +594,6 @@ Shalini De Mello is a Senior Research Scientist at NVIDIA. Her research interest
       <h6>Tobii</h6>
     </div>
   </div>
-  <div class="col-xs-2"></div>
 </div>
 <br>
 
