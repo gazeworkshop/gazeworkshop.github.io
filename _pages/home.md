@@ -145,69 +145,74 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at <a
       <thead class="thead-light">
         <tr>
 	  <th>#</th>
-          <!--<th>Time</th>-->
-          <th></th>
+		  <th>Time</th>
+          <th>Item</th>
         </tr>
       </thead>
       <tbody>
         <tr>
 	  <td>1</td>
-          <!--<td>8:30am - 8:35am</td>-->
+		  <td>8:30am - 8:35am</td>
           <td>Welcome and Opening Remarks</td>
         </tr>
         <tr>
 	  <td>2</td>
-          <!--<td></td>-->
+		  <td>8:35am - 10:05am</td>
           <td>Keynote Talks </td>
         </tr>
         <tr class="indent">
 	  <td></td>
-          <!--<td>8:35am - 9:20am</td>-->
+	      <td></td>
+		  <!--<td>8:35am - 9:20am</td>-->
           <td><a href="#yusuke">Yusuke Sugano</a> (University of Tokyo)</td>
         </tr>
         <tr class="indent">
 	  <td></td>
-          <!--<td>9:20am - 10:05am</td>-->
+	      <td></td>
+		  <!--<td>9:20am - 10:05am</td>-->
           <td><a href="#jeanmarc">Jean-Marc Odobez</a> (Idiap and EPFL)</td>
         </tr>
         <tr>
 	  <td>3</td>
-          <!--<td>10:05am - 10:20am</td>-->
+		  <td>10:05am - 10:20am</td>
           <td>Accepted Full Paper Lightning Talks</td>
         </tr>
         <tr>
 	  <td>4</td>
-          <!--<td>10:20am - 11:00am</td>-->
+		  <td>10:20am - 11:00am</td>
           <td>Coffee Break and Poster Session</td>
         </tr>
         <tr>
 	  <td>5</td>
-          <!--<td></td>-->
+		  <td>11:00am - 12:15pm</td>
           <td>Industry Keynote Talks </td>
         </tr>
-        <tr class="indent">
+        <tr>
 	  <td></td>
-          <!--<td>11:00am - 11:25am</td>-->
+	  	  <td></td>
+		  <!--<td>11:00am - 11:25am</td>-->
           <td><a href="#jaejoon">Jae-Joon Han</a> (Samsung Advanced Institute of Technology)</td>
         </tr>
-        <tr class="indent">
+        <tr>
 	  <td></td>
-          <!--<td>11:25am - 11:50pm</td>-->
+	  	  <td></td>
+		  <!--<td>11:25am - 11:50pm</td>-->
           <td><a href="#shalini">Shalini De Mello</a> (Nvidia)</td>
         </tr>
-        <tr class="indent">
+        <tr>
 	  <td></td>
-          <!--<td>11:50pm - 12:15</td>-->
+	  	  <td></td>
+		  <!--<td>11:50pm - 12:15pm</td>-->
           <td><a href="#maria">Maria Gordon</a> (Tobii)</td>
         </tr>
         <tr id="speakers">
 	  <td>6</td>
-          <!--<td>12:15pm - 12:40pm</td>-->
+		  <td>12:15pm - 12:40pm</td>
           <td>Panel Discussion</td>
         </tr>
         <tr>
 	  <td>7</td>
-          <!--<td>12:40pm - 12:50pm</td>-->
+		  <td>12:40pm - 12:50pm</td>
           <td>Presentation of Awards and Closing Remarks</td>
         </tr>
       </tbody>
