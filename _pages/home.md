@@ -160,13 +160,14 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at <a
 		  <td>8:35am - 10:05am</td>
           <td>Keynote Talks </td>
         </tr>
-        <tr class="indent">
+        <tr class="noline">
 	  <td></td>
 	      <td></td>
 		  <!--<td>8:35am - 9:20am</td>-->
-          <td><a href="#yusuke">Yusuke Sugano</a> (University of Tokyo)</td>
+          <td><a href="#yusuke">Yusuke Sugano</a> (University of Tokyo)
+		  </td>
         </tr>
-        <tr class="indent">
+        <tr class="noline">
 	  <td></td>
 	      <td></td>
 		  <!--<td>9:20am - 10:05am</td>-->
@@ -187,19 +188,19 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at <a
 		  <td>11:00am - 12:15pm</td>
           <td>Industry Keynote Talks </td>
         </tr>
-        <tr>
+        <tr class="noline">
 	  <td></td>
 	  	  <td></td>
 		  <!--<td>11:00am - 11:25am</td>-->
           <td><a href="#jaejoon">Jae-Joon Han</a> (Samsung Advanced Institute of Technology)</td>
         </tr>
-        <tr>
+        <tr class="noline">
 	  <td></td>
 	  	  <td></td>
 		  <!--<td>11:25am - 11:50pm</td>-->
           <td><a href="#shalini">Shalini De Mello</a> (Nvidia)</td>
         </tr>
-        <tr>
+        <tr class="noline">
 	  <td></td>
 	  	  <td></td>
 		  <!--<td>11:50pm - 12:15pm</td>-->
@@ -250,6 +251,18 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at <a
     </div>
   </div>
   <div class="col-md-9">
+    <h3>Appearance-based Gaze Estimation: What We Have Done and What We Should Do</h3>
+    <br>
+    <b>Abstract</b>
+    <p class="speaker-abstract">
+    Since its first appearance in the early 2000s, appearance-based gaze
+    estimation has been gradually but steadily gaining attention until
+    now. This talk aims at providing a brief overview of past research
+    achievements in the area of appearance-based gaze estimation, mainly
+    from the perspective of both personalization and generalization
+    techniques. I will also discuss some remaining challenges towards the
+    ultimate goal of camera-based versatile gaze estimation techniques.
+    </p>
     <b>Biography</b>
     <p class="speaker-bio">
 Yusuke Sugano is an associate professor at Institute of Industrial Science, The University of Tokyo. His research interests focus on computer vision and human-computer interaction. He received his Ph.D. in information science and technology from the University of Tokyo in 2010. He was previously an associate professor at Graduate School of Information Science and Technology, Osaka University, a postdoctoral researcher at Max Planck Institute for Informatics, and a project research associate at Institute of Industrial Science, the University of Tokyo.

@@ -137,8 +137,8 @@ div.speaker-pic {
   text-align: right;
 }
 
-div.speaker
-p.speaker-bio {
+div.speaker p.speaker-abstract,
+div.speaker p.speaker-bio {
   font-size: 1em;
   line-height: 1.5em;
 }
@@ -250,29 +250,16 @@ p.speaker-bio {
   height: 100%;
 }
 
-.table.schedule td {
+.table.schedule tr.noline td {
   border-top: none;
 }
-
-.table.schedule tr.indent tr.indent2 td {
-  padding-top: 0;
-}
-.table.schedule tr.indent td:nth-child(2) ,
-.table.schedule tr.indent2 td:nth-child(2) {
+.table.schedule tr td:nth-child(2) {
   padding-left: 1cm;
+  min-width: 188px;
 }
-.table.schedule tr.indent2 td {
-  font-size: 12px;
-  height: 12px;
+.table.schedule tr td {
   padding-top: 0;
   padding-bottom: 8px;
-}
-.table.schedule tr.indent.papertitle td {
-  vertical-align: bottom;
-  padding-top: 8px;
-  padding-bottom: 0;
-  font-size: 16px;
-  line-height: 16px;
 }
 
 div.paper {
