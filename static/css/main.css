@@ -253,10 +253,6 @@ div.speaker p.speaker-bio {
 .table.schedule tr.noline td {
   border-top: none;
 }
-.table.schedule tr td:nth-child(2) {
-  padding-left: 1cm;
-  min-width: 188px;
-}
 .table.schedule tr td {
   padding-top: 0;
   padding-bottom: 8px;
