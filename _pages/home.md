@@ -283,6 +283,15 @@ Yusuke Sugano is an associate professor at Institute of Industrial Science, The 
     </div>
   </div>
   <div class="col-md-9">
+    <h3>Measuring attention in  interactions: from context based multimodal head pose analysis to 3D gaze estimation</h3>
+    <br>
+    <b>Abstract</b>
+    <p class="speaker-abstract">
+Beyond words, non-verbal behaviors (NVB) are known to play important roles in face-to-face interactions. However, decoding non-verbal behaviors is a challenging problem that involves both extracting subtle physical NVB cues and mapping them to higher-level communication behaviors or social constructs. This is particularly the case of gaze, one of the most important non-verbal behaviors with functions related to communication and social signaling.
+<br>
+<br>
+In this talk, I will present our past and current work towards the automatic analysis of attention (whether 3D gaze or its discrete version the Visual Focus of Attention, VFOA)  in situations where large user mobility is expected and minimal intrusion is required. I will first introduce how we addressed VFOA recognition in meetings using Dynamical Bayesian Networks to jointly model speech conversation, gaze (represented by head pose), and task context. I will then present recent methods investigated to perform 3D gaze tracking, including robust and accurate 3D head pose tracking under 360 degrees as well as the use of several deep neural network architectures for  appearance-based gaze estimation. The latter will include methods to build personalized models through few-shot learning and gaze redirection eye synthesis, differential gaze estimation, and online learning or adaptation, potentially taking advantage of priors on social interactions to obtain weak labels for model adaptation.
+    </p>
     <b>Biography</b>
     <p class="speaker-bio">
     Dr. Jean-Marc Odobez received his PhD from Rennes University/INRIA in 1994 and was, from 1996 to 2001, Assistant Professor at the University of Maine, France. He is now a Senior Researcher at Idiap and adjunct faculty at the École Polytechnique Fédérale de Lausanne (EPFL) where he is a member of the School of Engineering (STI).
