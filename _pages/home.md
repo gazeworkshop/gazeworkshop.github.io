@@ -255,7 +255,7 @@ The 1st Workshop on Gaze Estimation and Prediction in the Wild (GAZE 2019) at <a
     <br>
     <b>Abstract</b>
     <p class="speaker-abstract">
-    Since its first appearance in the early 2000s, appearance-based gaze
+    Since its first appearance in the 90s, appearance-based gaze
     estimation has been gradually but steadily gaining attention until
     now. This talk aims at providing a brief overview of past research
     achievements in the area of appearance-based gaze estimation, mainly
