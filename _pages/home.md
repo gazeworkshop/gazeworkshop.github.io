@@ -352,8 +352,32 @@ Shalini De Mello is a Principal Research Scientist at NVIDIA. Her research inter
     <b>Biography</b>
     <p class="speaker-bio">Maria has been working with software and algorithm development for more than 15 years. During her career she has held a variety of roles from developer to research lead at companies like Philips, Infineon and Saab. Maria joined Tobii’s eye tracking algorithm team in 2015 as a Key Algorithm Engineer.
     </p>
-    <p class="speaker-bio" id="accepted">An eye tracker that works for every single individual is still a challenge. Maria has experienced from close how PC eye tracking has moved from being a specialty market and research tool to a mainstream gaming equipment. She has also been closely involved in the development of eye tracking for VR and AR, and been part of the work behind releasing products such as the <a href="https://vr.tobii.com/products/htc-vive-pro-eye/" target="_blank">HTC Vive Pro Eye</a>.
+    <p class="speaker-bio" id="awards">An eye tracker that works for every single individual is still a challenge. Maria has experienced from close how PC eye tracking has moved from being a specialty market and research tool to a mainstream gaming equipment. She has also been closely involved in the development of eye tracking for VR and AR, and been part of the work behind releasing products such as the <a href="https://vr.tobii.com/products/htc-vive-pro-eye/" target="_blank">HTC Vive Pro Eye</a>.
     </p>
+  </div>
+</div>
+<br>
+
+<div class="row">
+  <div class="col-xs-12" id="accepted">
+    <h2>Awards</h2>
+    <div class="award">
+      <h3>
+	    Best Paper Award
+	    <span class="award-sponsor">sponsored by
+        <a href="https://www.samsung.com/"><img src="/static/img/samsung.jpg" /></a>
+	    </span></h3>
+      <p><i>To be announced</i></p>
+	</div>
+
+    <div class="award">
+      <h3>
+	    Best Poster Award
+	    <span class="award-sponsor">sponsored by
+        <a href="https://www.nvidia.com/"><img src="/static/img/nvidia.jpg" /></a>
+	    </span></h3>
+      <p><i>To be announced</i></p>
+	</div>
   </div>
 </div>
 <br>
