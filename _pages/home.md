@@ -401,6 +401,11 @@ Shalini De Mello is a Principal Research Scientist at NVIDIA. Her research inter
     <div class="paper">
         <span class="title">Learning to Personalize in Appearance-Based Gaze Tracking</span>
         <span class="authors">Erik Lindén, Jonas Sjöstrand, Alexandre Proutiere</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-success">GAZE 2019</button>
+          <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1807.00664"><i class="fas fa-archive"></i> arXiv</a>
+          <!--<a class="btn btn-default" target="_blank" href="https://github.com/NVlabs/few_shot_gaze"><i class="fas fa-code"></i> Code</a>-->
+        </div>
     </div>
     <div class="paper">
         <span class="title">On-device Few-shot Personalization for Real-time Gaze Estimation</span>
