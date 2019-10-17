@@ -397,6 +397,11 @@ Shalini De Mello is a Principal Research Scientist at NVIDIA. Her research inter
     <div class="paper">
         <span class="title">A Generalized and Robust Method Towards Practical Gaze Estimation on Smart Phone</span>
         <span class="authors">Tianchu Guo, Yongchao Liu, Hui Zhang, Xiabing Liu, Youngjun Kwak, ByungIn Yoo, Jae-Joon Han, Changkyu Choi</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-success">GAZE 2019</button>
+          <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1910.07331"><i class="fas fa-archive"></i> arXiv</a>
+          <!--<a class="btn btn-default" target="_blank" href="https://github.com/NVlabs/few_shot_gaze"><i class="fas fa-code"></i> Code</a>-->
+        </div>
     </div>
     <div class="paper">
         <span class="title">Learning to Personalize in Appearance-Based Gaze Tracking</span>
