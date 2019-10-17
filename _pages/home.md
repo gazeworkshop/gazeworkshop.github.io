@@ -419,6 +419,12 @@ Shalini De Mello is a Principal Research Scientist at NVIDIA. Her research inter
     <div class="paper">
         <span class="title">RT-BENE: A dataset and baselines for Real-Time Blink Estimation in Natural Environments</span>
         <span class="authors">Kévin Cortacero, Tobias Fischer, Yiannis Demiris</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-success">GAZE 2019</button>
+          <a class="btn btn-default" target="_blank" href="https://www.researchgate.net/profile/Tobias_Fischer7/publication/336605388_RT-BENE_A_Dataset_and_Baselines_for_Real-Time_Blink_Estimation_in_Natural_Environments/links/5da84cd14585159bc3d5823d/RT-BENE-A-Dataset-and-Baselines-for-Real-Time-Blink-Estimation-in-Natural-Environments.pdf"><i class="fas fa-file-pdf"></i> PDF (ResearchGate)</a>
+		  <a class="btn btn-default" target="_blank" href="http://www.imperial.ac.uk/personal-robotics/software/"><i class="fas fa-code"></i> Code and Data</a>
+		  <a class="btn btn-default" target="_blank" href="http://tobiasfischer.info/publications/cortacero-2019-ICCVW-poster.pdf"><i class="fas fa-file-pdf"></i> Poster</a>
+        </div>
     </div>
     <div class="paper">
         <span class="title">SalGaze: Personalizing Gaze Estimation using Visual Saliency</span>
