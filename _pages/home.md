@@ -387,6 +387,14 @@ Shalini De Mello is a Principal Research Scientist at NVIDIA. Her research inter
 	    </span></h3>
       <p><i>To be announced</i></p>
 	</div>
+
+    <div class="award">
+	  <span class="award-other">
+	    We would like to thank
+        <a href="https://www.tobii.com/"><img src="/static/img/tobii.jpg" /></a>
+		for sponsoring our costs.
+	  </span>
+	</div>
   </div>
 </div>
 <br>

@@ -187,13 +187,22 @@ span.award-sponsor {
 	color: #666;
 	font-size: 15px;
 }
-span.award-sponsor a {
+span.award-sponsor a ,
+span.award-other a {
 	text-decoration: none;
 	border: 0;
 }
 span.award-sponsor img {
 	height: 18px;
 	margin: 0 5px;
+}
+div.award:last-child {
+	padding-top: 30px;
+}
+span.award-other img {
+	height: 18px;
+	margin-top: 2px;
+	vertical-align: top;
 }
 
 #sequence {
