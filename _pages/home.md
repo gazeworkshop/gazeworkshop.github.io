@@ -358,6 +358,14 @@ Shalini De Mello is a Principal Research Scientist at NVIDIA. Her research inter
     </div>
   </div>
   <div class="col-md-9">
+    <h3>Gaze into the future</h3>
+    <br>
+    <b>Abstract</b>
+    <p class="speaker-abstract">
+Just a few years ago, eye tracking was still considered a research tool and a niche product used for e.g. offering people with assistive needs a voice. Today, however, eye tracking is broadcasted on major sports gaming tournaments and has become integrated into commercial off-the-shelf PCs and VR headsets.
+<br>
+A major pull for eye tracking technology today comes from the XR space. While eye tracking already now adds value to current XR products, future XR hardware, such as e.g. dynamic focus displays, simply won’t work without refined eye tracking solutions. In this talk we’ll describe what role eye tracking will play in future remote and near eye setups and where eye tracking simply needs to succeed.
+    </p>
     <b>Biography</b>
     <p class="speaker-bio">Maria has been working with software and algorithm development for more than 15 years. During her career she has held a variety of roles from developer to research lead at companies like Philips, Infineon and Saab. Maria joined Tobii’s eye tracking algorithm team in 2015 as a Key Algorithm Engineer.
     </p>
