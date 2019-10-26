@@ -15,8 +15,8 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Gaze Estimation and Prediction in the Wild</h1></center>
     <center><h2>ICCV 2019 Workshop, Seoul, Korea</h2></center>
-    <!-- <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center>
-    <center>TODO - DATE Sunday June 16 2019, 8:45am -- 5:40pm, <span style="color:#e74c3c;font-weight:400;"> TODO -location TBA</span></center>-->
+    <center>Sunday October 27 2019, 8:30am - 12:50pm</center>
+    <center>Location: <b>Room 318 A</b></center>
   </div>
 </div>
 
