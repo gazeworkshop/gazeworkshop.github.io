@@ -183,9 +183,12 @@ div.speaker p.speaker-bio {
 div.award {
     padding: 15px 0px 15px 25px;
 }
+div.award h3 {
+	font-size: 15px;
+}
 span.award-sponsor {
 	color: #666;
-	font-size: 15px;
+	font-size: 13px;
 }
 span.award-sponsor a ,
 span.award-other a {
@@ -307,11 +310,14 @@ div.paper span.label {
 div.paper div.btn-group {
   margin-top: 8px;
 }
+div.paper button,
+div.paper .btn {
+  border-radius: 0 !important;
+}
 div.paper .btn {
 	text-transform: none !important;
 	box-shadow: none;
 	border: 1px solid #999;
-	border-radius: 10px;
 	margin-right: -1px;
 	padding: 4px 8px;
 }
