@@ -384,7 +384,10 @@ A major pull for eye tracking technology today comes from the XR space. While ey
 	    <span class="award-sponsor">sponsored by
         <a href="https://www.samsung.com/"><img src="/static/img/samsung.jpg" /></a>
 	    </span></h3>
-      <p><i>To be announced</i></p>
+      <p><br>
+	<b>On-device Few-shot Personalization for Real-time Gaze Estimation</b><br>
+	<i>Junfeng He, Khoi Pham, Nachiappan Valliappan, Pingmei Xu, Chase Roberts, Vidhya Navalpakkam, Dmitry Lagun</i>
+      </p>
 	</div>
 
     <div class="award">
@@ -393,7 +396,10 @@ A major pull for eye tracking technology today comes from the XR space. While ey
 	    <span class="award-sponsor">sponsored by
         <a href="https://www.nvidia.com/"><img src="/static/img/nvidia.jpg" /></a>
 	    </span></h3>
-      <p><i>To be announced</i></p>
+      <p><br>
+	<b>RT-BENE: A dataset and baselines for Real-Time Blink Estimation in Natural Environments</b><br>
+	<i>Kévin Cortacero, Tobias Fischer, Yiannis Demiris</i>
+      </p>
 	</div>
 
     <div class="award">
@@ -415,7 +421,8 @@ A major pull for eye tracking technology today comes from the XR space. While ey
         <span class="authors">Tianchu Guo, Yongchao Liu, Hui Zhang, Xiabing Liu, Youngjun Kwak, ByungIn Yoo, Jae-Joon Han, Changkyu Choi</span>
         <div class="btn-group btn-group-xs" role="group">
           <button class="btn btn-success">GAZE 2019</button>
-          <button class="btn btn-poster-id">Poster #118</button>
+          <!--<button class="btn btn-poster-id">Poster #118</button>-->
+  	  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/Guo_A_Generalized_and_Robust_Method_Towards_Practical_Gaze_Estimation_on_ICCVW_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
           <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1910.07331"><i class="fas fa-archive"></i> arXiv</a>
           <!--<a class="btn btn-default" target="_blank" href="https://github.com/NVlabs/few_shot_gaze"><i class="fas fa-code"></i> Code</a>-->
         </div>
@@ -425,7 +432,8 @@ A major pull for eye tracking technology today comes from the XR space. While ey
         <span class="authors">Erik Lindén, Jonas Sjöstrand, Alexandre Proutiere</span>
         <div class="btn-group btn-group-xs" role="group">
           <button class="btn btn-success">GAZE 2019</button>
-          <button class="btn btn-poster-id">Poster #112</button>
+          <!--<button class="btn btn-poster-id">Poster #112</button>-->
+  	  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/Linden_Learning_to_Personalize_in_Appearance-Based_Gaze_Tracking_ICCVW_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
           <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1807.00664"><i class="fas fa-archive"></i> arXiv</a>
           <!--<a class="btn btn-default" target="_blank" href="https://github.com/NVlabs/few_shot_gaze"><i class="fas fa-code"></i> Code</a>-->
         </div>
@@ -435,7 +443,8 @@ A major pull for eye tracking technology today comes from the XR space. While ey
         <span class="authors">Junfeng He, Khoi Pham, Nachiappan Valliappan, Pingmei Xu, Chase Roberts, Vidhya Navalpakkam, Dmitry Lagun</span>
         <div class="btn-group btn-group-xs" role="group">
           <button class="btn btn-success">GAZE 2019</button>
-          <button class="btn btn-poster-id">Poster #114</button>
+          <!--<button class="btn btn-poster-id">Poster #114</button>-->
+  	  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/He_On-Device_Few-Shot_Personalization_for_Real-Time_Gaze_Estimation_ICCVW_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
         </div>
     </div>
     <div class="paper">
@@ -443,7 +452,8 @@ A major pull for eye tracking technology today comes from the XR space. While ey
         <span class="authors">Kévin Cortacero, Tobias Fischer, Yiannis Demiris</span>
         <div class="btn-group btn-group-xs" role="group">
           <button class="btn btn-success">GAZE 2019</button>
-          <button class="btn btn-poster-id">Poster #108</button>
+          <!--<button class="btn btn-poster-id">Poster #108</button>-->
+  	  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/Cortacero_RT-BENE_A_Dataset_and_Baselines_for_Real-Time_Blink_Estimation_in_ICCVW_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
           <a class="btn btn-default" target="_blank" href="https://www.researchgate.net/profile/Tobias_Fischer7/publication/336605388_RT-BENE_A_Dataset_and_Baselines_for_Real-Time_Blink_Estimation_in_Natural_Environments/links/5da84cd14585159bc3d5823d/RT-BENE-A-Dataset-and-Baselines-for-Real-Time-Blink-Estimation-in-Natural-Environments.pdf"><i class="fas fa-file-pdf"></i> PDF (ResearchGate)</a>
 		  <a class="btn btn-default" target="_blank" href="http://www.imperial.ac.uk/personal-robotics/software/"><i class="fas fa-code"></i> Code and Data</a>
 		  <a class="btn btn-default" target="_blank" href="http://tobiasfischer.info/publications/cortacero-2019-ICCVW-poster.pdf"><i class="fas fa-file-pdf"></i> Poster</a>
@@ -455,7 +465,8 @@ A major pull for eye tracking technology today comes from the XR space. While ey
         <span class="authors">Zhuoqing Chang, J. Matias Di Martino, Qiang Qiu, Guillermo Sapiro</span>
         <div class="btn-group btn-group-xs" role="group">
           <button class="btn btn-success">GAZE 2019</button>
-          <button class="btn btn-poster-id">Poster #110</button>
+          <!--<button class="btn btn-poster-id">Poster #110</button>-->
+  	  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/Chang_SalGaze_Personalizing_Gaze_Estimation_using_Visual_Saliency_ICCVW_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
           <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1910.10603"><i class="fas fa-archive"></i> arXiv</a>
         </div>
     </div>
@@ -472,7 +483,7 @@ A major pull for eye tracking technology today comes from the XR space. While ey
   <span class="authors">MinJi Park, Mira Jeong, ByoungChul Ko</span>
         <div class="btn-group btn-group-xs" role="group">
           <button class="btn btn-success">GAZE EA 2019</button>
-          <button class="btn btn-poster-id">Poster #116</button>
+          <!--<button class="btn btn-poster-id">Poster #116</button>-->
         </div>
   </div>
 
@@ -484,7 +495,8 @@ A major pull for eye tracking technology today comes from the XR space. While ey
   <span class="authors">Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz</span>
   <div class="btn-group btn-group-xs" role="group">
   <button class="btn btn-success">ICCV 2019 (Oral)</button>
-  <button class="btn btn-poster-id">Poster #113</button>
+  <!--<button class="btn btn-poster-id">Poster #113</button>-->
+  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
   <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1905.01941"><i class="fas fa-archive"></i> arXiv</a>
   <!--<a class="btn btn-default" target="_blank" href="https://github.com/NVlabs/few_shot_gaze"><i class="fas fa-code"></i> Code</a>-->
   </div>
@@ -495,7 +507,8 @@ A major pull for eye tracking technology today comes from the XR space. While ey
   <span class="authors">Zhe He, Adrian Spurr, Xucong Zhang, Otmar Hilliges</span>
   <div class="btn-group btn-group-xs" role="group">
   <button class="btn btn-success">ICCV 2019</button>
-  <button class="btn btn-poster-id">Poster #119</button>
+  <!--<button class="btn btn-poster-id">Poster #119</button>-->
+  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
   <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1903.12530"><i class="fas fa-archive"></i> arXiv</a>
   <a class="btn btn-default" target="_blank" href="https://github.com/HzDmS/gaze_redirection"><i class="fas fa-code"></i> Code</a>
   </div>
@@ -506,7 +519,8 @@ A major pull for eye tracking technology today comes from the XR space. While ey
   <span class="authors">Petr Kellnhofer, Adrià Recasens, Simon Stent, Wojciech Matusik, Antonio Torralba</span>
   <div class="btn-group btn-group-xs" role="group">
   <button class="btn btn-success">ICCV 2019</button>
-  <button class="btn btn-poster-id">Poster #111</button>
+  <!--<button class="btn btn-poster-id">Poster #111</button>-->
+  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
   <a class="btn btn-default" target="_blank" href="http://gaze360.csail.mit.edu/">       <i class="fas fa-atom"></i> Project Page</a>
   <a class="btn btn-default" target="_blank" href="https://github.com/erkil1452/gaze360"><i class="fas fa-code"></i> Code and Data</a>
   </div>
@@ -517,7 +531,7 @@ A major pull for eye tracking technology today comes from the XR space. While ey
   <span class="authors">Yunyang Xiong, Hyunwoo J. Kim, Vikas Singh</span>
   <div class="btn-group btn-group-xs" role="group">
   <button class="btn btn-success">CVPR 2019</button>
-  <button class="btn btn-poster-id">Poster #115</button>
+  <!--<button class="btn btn-poster-id">Poster #115</button>-->
   <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Mixed_Effects_Neural_Networks_MeNets_With_Applications_to_Gaze_Estimation_CVPR_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
   <a class="btn btn-default" target="_blank" href="https://github.com/vsingh-group/MeNets"><i class="fas fa-code"></i> Code</a>
   </div>
@@ -528,7 +542,8 @@ A major pull for eye tracking technology today comes from the XR space. While ey
   <span class="authors">Lifeng Fan, Wenguan Wang, Siyuan Huang, Xinyu Tang, Song-Chun Zhu</span>
   <div class="btn-group btn-group-xs" role="group">
   <button class="btn btn-success">ICCV 2019</button>
-  <button class="btn btn-poster-id">Poster #109</button>
+  <!--<button class="btn btn-poster-id">Poster #109</button>-->
+  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Fan_Understanding_Human_Gaze_Communication_by_Spatio-Temporal_Graph_Reasoning_ICCV_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
   <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1909.02144v1"><i class="fas fa-archive"></i> arXiv</a>
   <!--<a class="btn btn-default" target="_blank" href=""><i class="fas fa-archive"></i> arXiv</a>-->
   </div>
@@ -539,9 +554,9 @@ A major pull for eye tracking technology today comes from the XR space. While ey
   <span class="authors">Yu Yu, Gang Liu, Jean-Marc Odobez</span>
   <div class="btn-group btn-group-xs" role="group">
   <button class="btn btn-success">CVPR 2019</button>
-  <button class="btn btn-poster-id">Poster #117</button>
-  <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1904.10638"><i class="fas fa-archive"></i> arXiv</a>
+  <!--<button class="btn btn-poster-id">Poster #117</button>-->
   <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Improving_Few-Shot_User-Specific_Gaze_Adaptation_via_Gaze_Redirection_Synthesis_CVPR_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
+  <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1904.10638"><i class="fas fa-archive"></i> arXiv</a>
   </div>
   </div>
 
