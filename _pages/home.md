@@ -21,6 +21,15 @@ acknowledgements: ""
 </div>
 
 <hr>
+<div class="row">
+  <div class="col-md-12">
+    <div class="alert alert-success">
+      Please <b><a href="https://groups.google.com/forum/#!forum/gaze-in-the-wild" target="_blank">subscribe</a></b> to our
+	  <b><a href="https://groups.google.com/forum/#!forum/gaze-in-the-wild" target="_blank">new mailing list</a></b>
+	  to gain access to our speakers' slides and future updates!
+    </div>
+  </div>
+</div>
 
 <div class="row" id="intro">
   <div class="col-md-12">
