@@ -517,7 +517,7 @@ A major pull for eye tracking technology today comes from the XR space. While ey
   <div class="btn-group btn-group-xs" role="group">
   <button class="btn btn-success">ICCV 2019</button>
   <!--<button class="btn btn-poster-id">Poster #119</button>-->
-  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
+  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCV_2019/papers/He_Photo-Realistic_Monocular_Gaze_Redirection_Using_Generative_Adversarial_Networks_ICCV_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
   <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/1903.12530"><i class="fas fa-archive"></i> arXiv</a>
   <a class="btn btn-default" target="_blank" href="https://github.com/HzDmS/gaze_redirection"><i class="fas fa-code"></i> Code</a>
   </div>
@@ -529,7 +529,7 @@ A major pull for eye tracking technology today comes from the XR space. While ey
   <div class="btn-group btn-group-xs" role="group">
   <button class="btn btn-success">ICCV 2019</button>
   <!--<button class="btn btn-poster-id">Poster #111</button>-->
-  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
+  <a class="btn btn-default" target="_blank" href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Kellnhofer_Gaze360_Physically_Unconstrained_Gaze_Estimation_in_the_Wild_ICCV_2019_paper.pdf"><i class="fas fa-file-pdf"></i> PDF (CVF)</a>
   <a class="btn btn-default" target="_blank" href="http://gaze360.csail.mit.edu/">       <i class="fas fa-atom"></i> Project Page</a>
   <a class="btn btn-default" target="_blank" href="https://github.com/erkil1452/gaze360"><i class="fas fa-code"></i> Code and Data</a>
   </div>
