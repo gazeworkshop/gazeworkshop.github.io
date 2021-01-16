@@ -1,3 +1,10 @@
+div.sticky-top {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+}
+
 ul.navbar-nav {
   font-size: 15px;
 }
@@ -15,7 +22,6 @@ body {
   font-weight: 300;
   -webkit-font-smoothing: subpixel-antialiased;
   color: #333;
-  padding-top: 70px;
 }
 
 body *::selection {
