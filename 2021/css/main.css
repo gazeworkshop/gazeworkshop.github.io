@@ -91,6 +91,13 @@ a {
   color: inherit;
 }
 
+a.anchor {
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden;
+}
+
 .navbar a {
   border-bottom: 0;
 }
