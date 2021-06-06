@@ -338,8 +338,10 @@ div.paper .btn-default {
 	color: #999;
 }
 div.paper .btn-success,
+div.paper .btn-primary,
 div.paper .btn-poster-id {
 	cursor: default;
+	pointer-events: none;
 }
 div.paper i.fas {
 	margin-right: 4px;
