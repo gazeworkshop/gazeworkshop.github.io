@@ -199,6 +199,9 @@ div.award {
 div.award h3 {
 	font-size: 15px;
 }
+div.award p {
+	padding-left: 20px;
+}
 span.award-sponsor {
 	color: #666;
 	font-size: 13px;
