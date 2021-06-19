@@ -317,19 +317,24 @@ div.paper span.authors {
 }
 div.paper:hover,
 div.paper:hover span.authors,
-div.paper:hover .btn-default {
+div.paper:hover .btn-default,
+div.award:hover .btn-default {
 	color: black;
 }
 div.paper span.label {
 	font-size: 10px;
 }
+div.award div.btn-group,
 div.paper div.btn-group {
   margin-top: 8px;
 }
+div.award button,
+div.award .btn,
 div.paper button,
 div.paper .btn {
   border-radius: 0 !important;
 }
+div.award .btn,
 div.paper .btn {
 	text-transform: none !important;
 	box-shadow: none;
@@ -337,15 +342,20 @@ div.paper .btn {
 	margin-right: -1px;
 	padding: 4px 8px;
 }
+div.award .btn-default ,
 div.paper .btn-default {
 	color: #999;
 }
+div.award .btn-success,
+div.award .btn-primary,
+div.award .btn-poster-id,
 div.paper .btn-success,
 div.paper .btn-primary,
 div.paper .btn-poster-id {
 	cursor: default;
 	pointer-events: none;
 }
+div.award i.fas,
 div.paper i.fas {
 	margin-right: 4px;
 }
