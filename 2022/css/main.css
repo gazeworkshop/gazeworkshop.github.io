@@ -315,6 +315,11 @@ div.paper span.authors {
   color: #666;
   transition: color 0.5s;
 }
+div.paper span.award {
+  display: block;
+  font-size: 18px;
+  color: rgb(178, 154, 37);
+}
 div.paper:hover,
 div.paper:hover span.authors,
 div.paper:hover .btn-default,
