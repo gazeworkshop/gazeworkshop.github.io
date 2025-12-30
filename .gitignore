@@ -1,3 +1,7 @@
 .jekyll-metadata
 _site/
 Gemfile.lock
+
+# DS_Store files in all directories
+**/.DS_Store
+.DS_Store
