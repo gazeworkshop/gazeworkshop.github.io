@@ -325,11 +325,6 @@ div.paper span.authors {
   color: #666;
   transition: color 0.5s;
 }
-div.paper span.award {
-  display: block;
-  font-size: 18px;
-  color: rgb(178, 154, 37);
-}
 div.paper:hover,
 div.paper:hover span.authors,
 div.paper:hover .btn-default,
@@ -364,11 +359,18 @@ div.paper .btn-default {
 div.award .btn-success,
 div.award .btn-primary,
 div.award .btn-poster-id,
+div.paper .btn-award,
 div.paper .btn-success,
 div.paper .btn-primary,
 div.paper .btn-poster-id {
 	cursor: default;
 	pointer-events: none;
+}
+div.paper .btn-award {
+	background: #fff7d6;
+	border-color: #999;
+	color: #6f5500;
+	font-weight: 600;
 }
 div.award i.fas,
 div.paper i.fas {
